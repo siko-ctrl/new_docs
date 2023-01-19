@@ -14,4 +14,6 @@ Participate in the project in any way you can. Ask Noso Discord Moderators and a
 Be an active member on Discord and a positive influence for Noso on Social Media\
 
 
+<figure><img src="../.gitbook/assets/productionschedule.png" alt=""><figcaption><p>NOSO PRODUCTION SCHEDULE</p></figcaption></figure>
+
 \
