@@ -1,0 +1,35 @@
+# Table of contents
+
+* [👋 Welcome to Noso](README.md)
+
+## Overview
+
+* [💡 Getting Started:](overview/getting-started.md)
+* [✨ Setup a Wallet:](overview/setup-a-wallet/README.md)
+  * [Nosolite](overview/setup-a-wallet/nosolite.md)
+  * [Noso-Mobile](overview/setup-a-wallet/noso-mobile.md)
+
+## How to earn Noso?
+
+* [💰 Earn Noso on Windows:](how-to-earn-noso/earn-noso-on-windows.md)
+* [💰 Earn Noso using a Mobile Device:](how-to-earn-noso/earn-noso-using-a-mobile-device.md)
+* [💰 Earn Noso on Linux:](how-to-earn-noso/earn-noso-on-linux.md)
+
+## Setup A Node
+
+* [🛠 Earn running a Node](setup-a-node/earn-running-a-node.md)
+* [List of comands:](setup-a-node/list-of-comands.md)
+
+## What is a GVT?
+
+* [🏘 Noso Governance (GVT):](what-is-a-gvt/noso-governance-gvt.md)
+* [GVT polls:](what-is-a-gvt/gvt-polls.md)
+
+## Links
+
+* [🔗 Downloads:](links/downloads.md)
+* [🗣 Socials:](links/socials.md)
+
+***
+
+* [Discord](https://discord.gg/GvmxvFbSHa)

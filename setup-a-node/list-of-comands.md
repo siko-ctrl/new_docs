@@ -1,0 +1,133 @@
+# List of comands:
+
+<mark style="color:red;">Performance:</mark>
+
+* system power (shows node processing power Trx/s)
+* system mem (shows node system memory MB)
+* system downspeed (shows internet speed Kb/s)\
+  \
+  <mark style="color:red;">Node:</mark>
+* ver (current NosoNode version )
+* serveron (starts server )
+* serveroff (stops server)
+* forceserver
+* nodes (shows seed nodes)
+* bots (shows bots)
+* slots (showslots)
+* connect (connect to servers)
+* disconnect (disconnects from network)
+* newaddress (creates new address)
+* useroptions (shows user defined options)
+* balance (shows wallet balance)
+* connectto (connects to specified node)
+* sumary (shows network summary)
+* autoserveron (enables auto server on)
+* autoserveroff (disables auto server on)
+* autoconnecton (enables auto connect)
+* autoconnectoff (disables auto connect)
+* showwallet (shows wallet addresses)
+* impwallet ()
+* impwallet (importarwallet(linetext)
+* expwallet (exportarwallet(linetext)
+* resumen (shows block headers)
+* setdefault (addressnumber) (sets default address)
+* lbinfo showblockinfo(mylastblock) (Shows last block information)
+* timestamp (shows timestamp)
+* undoblock (undo last block)
+* customize nosoaddress(linetext) (customize noso address)
+* sendto parse\_sendfund (send NOSO)
+* sendgvt parse\_sendgvt(linetext) (send GVT)
+* halving (shows halving schedule)
+* rebuildsumary (mylastblock) (rebuilds sumary to specified block)
+* rebuildheaders (mylastblock) (rebuilds headers to specified block)
+* groupcoins groupcoins(linetext) ()
+* sha256 addlinetodebuglog ()
+* md5 addlinetodebuglog ()
+* md160 addlinetodebuglog ()
+* totrayon (auto minimize to tray on)
+* totrayoff (auto minimize to tray off)
+* clear (clears the console)
+* tp testparser(linetext) ()
+* delbot (linetext) (deletes bots)
+* cripto (shows cripto thread info)
+* block (blocknumber) (parses show block info)
+* testnet (value) (sends value to the address devteam\_donation)
+* rundiag (rundiagnostico(linetext)
+* restart (restarts node)
+* snd (shownetworkdatainfo)
+* osversion (shows OS version)
+* directive sendadminmessage (send directives to mainnet - reserved for admin)
+* myhash (shows node hash)
+* addbot (botIP) (adds bot)
+* setrtot (sets read timeout)
+* setctot (sets connection timeout)
+* status (shows server status)
+* getcert (address) (shows address cert)
+* checkcert (linetext) (checkownerhash)
+* update (updates node to latest or specified version)
+* restoreblockchain (restores blockshain)
+* restoresumary (restores block sumary)
+* reqhead (request headers)
+* reqsum (request sumary)
+* saveadv createadv(true) ()
+* order showorderdetails(linetext) (shows specified order details)
+* exportaddress (nosoaddress) (exports address to "tempwallet.pkw)
+* address(nosoaddress) (shows address info)
+* history ()
+* totalfees (Blockchain total fees)
+* supply (shows current supply)
+* gmts (shows gmts)
+* showprivkey (address) (shows private key for address)
+* showpending (shows pending transactions)
+* webwal (webwallet)
+* expkeys (exortkeys)
+* checkupdates (checks for updates)
+* zipsumary (/NOSODATA/sumary.zip)
+* zipheaders (creates /NOSODATA/blchhead.zip)
+* getmns ()
+* closestarton ()
+* closestartoff ()
+* dt ()
+* tt (shows masternodes & verificators)
+* base58sum ()
+* nosohash (shows last noshash)
+* pending (shows pending transfers)
+* header ()
+* headsize (header size)\
+  \
+  <mark style="color:red;">Consulting:</mark>
+* netrate (total network hashrate)
+* listgvt (shows all gvts)
+* nosocfg (shows noso config)
+* funds (shows project funds)\
+  \
+  <mark style="color:red;">Debug:</mark>
+* posstack (shows all addresses with node stake amount)
+* blockmns (block) (shows all node addresses on block)
+* myip (shows public IP of node)
+* showupdates (shows previous node updates)
+* setmode ()
+* addnode ()
+* delnode ()
+* restorecfg ()
+* setcfgdata ()
+* addcfgdata ()
+* isallsynced (number of synced nodes)
+* fest ()
+* fest2 ()
+* freezed ()
+* optsum (optimizes summary)\
+  \
+  <mark style="color:red;">P2P:</mark>
+* peers ()
+* freezed (Locked addresses)\
+  \
+  <mark style="color:red;">RPC:</mark>
+* peers (peers)
+* rpcon (turns rpc server on)
+* rpcoff (turns rpc server off)\
+  \
+  <mark style="color:red;">Exchange:</mark>
+* post (posts offer)
+
+\
