@@ -12,7 +12,8 @@
 ## How to earn Noso?
 
 * [💰 Earn Noso on Windows:](how-to-earn-noso/earn-noso-on-windows.md)
-* [💰 Earn Noso using a Mobile Device:](how-to-earn-noso/earn-noso-using-a-mobile-device.md)
+* [💰 Earn Noso using a Mobile Device:](how-to-earn-noso/earn-noso-using-a-mobile-device/README.md)
+  * [Userland instructions:](how-to-earn-noso/earn-noso-using-a-mobile-device/userland-instructions.md)
 * [💰 Earn Noso on Linux:](how-to-earn-noso/earn-noso-on-linux.md)
 
 ## Setup A Node
