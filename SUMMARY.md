@@ -33,3 +33,4 @@
 ***
 
 * [Discord](https://discord.gg/GvmxvFbSHa)
+* [Noso-Explorer](https://nosostats.com/explorer.html)
