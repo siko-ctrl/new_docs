@@ -1,6 +1,7 @@
 # Table of contents
 
 * [👋 Welcome to Noso](README.md)
+* [💎 Whitepaper](whitepaper.md)
 
 ## Overview
 
