@@ -35,3 +35,7 @@
 
 * [Discord](https://discord.gg/GvmxvFbSHa)
 * [Noso-Explorer](https://nosostats.com/explorer.html)
+
+## Noso funds
+
+* [Project Funds:](noso-funds/project-funds.md)
