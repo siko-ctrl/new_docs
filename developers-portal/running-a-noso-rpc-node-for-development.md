@@ -9,7 +9,7 @@ description: >-
 The Noso RPC node enables the front-end application layer and the backend protocol layer to interact with one another through a request-reply function that transmits information between the client and server.
 
 \
-To set up a Noso RPC node, you must first download and install NosoNode software from the Noso Project Github repository (here) [https://github.com/Noso-Project/NosoNode](https://github.com/Noso-Project/NosoNode). Once NosoNode software is installed, navigate to the “Options > RPC” tab. From the RPC tab, specify your RPC TCP port (Default 8078) and check the box “Enable JSON-RPC server”. You will see the word RPC in yellow at the bottom indicating RPC is enabled. It is highly recommended to whitelist the IP addresses of specific servers allowed to connect especially when hosted publicly.
+To set up a Noso RPC node, you must first download and install NosoNode software from the Noso Project Github repository [(here)](https://github.com/Noso-Project/NosoNode).Once NosoNode software is installed, navigate to the “Options > RPC” tab. From the RPC tab, specify your RPC TCP port (Default 8078) and check the box “Enable JSON-RPC server”. You will see the word RPC in yellow at the bottom indicating RPC is enabled. It is highly recommended to whitelist the IP addresses of specific servers allowed to connect especially when hosted publicly.
 
 \
 
@@ -127,9 +127,7 @@ Example JSON-RPC Result:
 <mark style="color:red;">**Links:**</mark>
 
 {% hint style="danger" %}
-In addition, Noso rpctester is provided on the Noso Project repository (here).
-
-[https://github.com/Noso-Project/RPCTester](https://github.com/Noso-Project/RPCTester)
+In addition, Noso rpctester is provided on the Noso Project repository [(here)](https://github.com/Noso-Project/RPCTester).
 {% endhint %}
 
 \
