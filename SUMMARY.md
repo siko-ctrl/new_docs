@@ -40,3 +40,7 @@
 
 * [Discord](https://discord.gg/GvmxvFbSHa)
 * [Noso-Explorer](https://nosostats.com/explorer.html)
+
+## Developers portal
+
+* [Running A Noso RPC node for development](developers-portal/running-a-noso-rpc-node-for-development.md)
