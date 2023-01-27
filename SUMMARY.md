@@ -21,6 +21,7 @@
 
 * [🛠 Earn running a Node](setup-a-node/earn-running-a-node.md)
 * [List of comands:](setup-a-node/list-of-comands.md)
+* [Pools:](setup-a-node/pools.md)
 
 ## What is a GVT?
 
