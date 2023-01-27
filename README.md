@@ -23,3 +23,5 @@ description: Network Of Sustainable Opportunity
 * Premine: 0.049% (10303.9073 Noso) used as development fund.
 
 {% embed url="https://github.com/Noso-Project" %}
+
+<figure><img src=".gitbook/assets/productionschedule.png" alt=""><figcaption></figcaption></figure>
