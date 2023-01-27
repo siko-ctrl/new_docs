@@ -25,4 +25,4 @@ layout: landing
 
 {% embed url="https://github.com/Noso-Project" %}
 
-<figure><img src=".gitbook/assets/productionschedule.png" alt=""><figcaption></figcaption></figure>
+{% file src=".gitbook/assets/Nosov2-1080 (2).mp4" %}
