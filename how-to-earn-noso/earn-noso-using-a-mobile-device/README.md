@@ -39,7 +39,12 @@ Launch Termux App and perform the following:
 Download "Get Noso" app (version 1.6). Check [(here)](https://github.com/Noso-Project/noso-website/tree/main/docs/download) for other versions. wget:\
 &#x20;`wget https://nosocoin.com/docs/download/consominer2-v1.6-aarch64-linux`(aarch64)\
 \
-`wget https://nosocoin.com/docs/download/consominer2-v1.6-arm32-linux`(arm32)\
+
+
+```
+wget https://nosocoin.com/docs/download/consominer2-v1.6-arm32-linux(arm32)
+```
+
 \
 
 
