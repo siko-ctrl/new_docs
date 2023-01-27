@@ -1,5 +1,9 @@
 # Userland instructions:
 
+{% hint style="warning" %}
+These instructions  only work if  you are using Userland
+{% endhint %}
+
 ```
 Go on play store and install Userland. Once installed, install Debian from inside Userland. Set username and password (some versions dont require this), and SSH (terminal) connection type (installation can take a while on old hardware). 
 
