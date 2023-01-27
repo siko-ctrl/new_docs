@@ -127,9 +127,7 @@ Example JSON-RPC Result:
 <mark style="color:red;">**Links:**</mark>
 
 {% hint style="danger" %}
-In addition, Noso rpctester is provided on the Noso Project repository (here).
-
-[https://github.com/Noso-Project/RPCTester](https://github.com/Noso-Project/RPCTester)
+In addition, Noso rpctester is provided on the Noso Project repository [(here)](https://github.com/Noso-Project/RPCTester).
 {% endhint %}
 
 \
