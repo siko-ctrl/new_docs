@@ -76,6 +76,65 @@ Example JSON-RPC Result:
 
 
 
+<mark style="color:red;">**“getblockorders”**</mark> returns: a list of the orders on the specified block.
+
+{% hint style="info" %}
+Example JSON-RPC call:
+
+{ "jsonrpc" : "2.0", "method" : "getblockorders", "params" : \["94490"], "id" : 17 }
+
+Example JSON-RPC Result:
+
+{ "jsonrpc" : "2.0", "result" : \[{ "valid" : true, "block" : 94490, "orders" : \[{ "orderid" : "OR1bcn6hjpghwgluly8h3xy8o0mei2yi4d6hjnx60v629t92z1ts", "timestamp" : 1674790860, "block" : 94490, "type" : "TRFR", "trfrs" : 1, "receiver" : "N2Xwndryx9BFtsDQGFYAZPwSuw7H9FM", "amount" : 17977231, "fee" : 1797, "reference" : "PoolPay\_GoneFishing", "sender" : "N3ESwXxCAR4jw3GVHgmKiX9zx1ojWEf" }, { "orderid" : "OR1p6kv7dt4zm9xocelb2qca9xejg95lmqtepy5o7qgbdwf4axdi", "timestamp" : 1674790860, "block" : 94490, "type" : "TRFR", "trfrs" : 1, "receiver" : "Nfk2RJQG7xTUdR8TckhgtrqRLPyGEx", "amount" : 20114122, "fee" : 2011, "reference" : "PoolPay\_GoneFishing", "sender" : "N3ESwXxCAR4jw3GVHgmKiX9zx1ojWEf" }, { "orderid" : "OR1tvvdl3j4w58j4qqn6ka2aokjef4l55nowabn2ul4xxujck3fy", "timestamp" : 1674790860, "block" : 94490, "type" : "TRFR", "trfrs" : 1, "receiver" : "NaUPW4uVTisJ4GKmaMxLNzceTPsoFJ", "amount" : 55644228, "fee" : 5564, "reference" : "PoolPay\_nosomn", "sender" : "N3aXz2RGwj8LAZgtgyyXNRkfQ1EMnFC" }, { "orderid" : "OR1yewy1jt96vrcl3higy5dvaei1song2q91zmjy9ioey5glwkus", "timestamp" : 1674790860, "block" : 94490, "type" : "TRFR", "trfrs" : 1, "receiver" : "NaUPW4uVTisJ4GKmaMxLNzceTPsoFJ", "amount" : 77904269, "fee" : 7791, "reference" : "PoolPay\_GoneFishing", "sender" : "N3ESwXxCAR4jw3GVHgmKiX9zx1ojWEf" }, { "orderid" : "OR2axuleqjs083tyftigd7qcpjt5ayg1dw04f1mtb315msv2n8e0", "timestamp" : 1674790860, "block" : 94490, "type" : "TRFR", "trfrs" : 1, "receiver" : "N3pgA3mrmVHCLQ61qp74hu4Tsk99ZD9", "amount" : 105284041, "fee" : 10529, "reference" : "PoolPay\_estripa", "sender" : "N2ophUoAzJw9LtgXbYMiB4u5jWWGJF7" }, { "orderid" : "OR2ekvs8qcdqixe4wjvfbwptr2l6mq05qifpog7hngqpo4sgffyc", "timestamp" : 1674790860, "block" : 94490, "type" : "TRFR", "trfrs" : 1, "receiver" : "Nh6wXPMv485qNYuUzWBBC9KnxcKjE2", "amount" : 104287275, "fee" : 10429, "reference" : "PoolPay\_estripa", "sender" : "N2ophUoAzJw9LtgXbYMiB4u5jWWGJF7" }, { "orderid" : "OR32wru0mhrg9owg7l4tcc9av6l0yjbbvuylgyqxcpl0tt8uhftq", "timestamp" : 1674790860, "block" : 94490, "type" : "TRFR", "trfrs" : 1, "receiver" : "N3ZMRpo2c6xaJyTUNTeqbFbVZtui3Fb", "amount" : 78847259, "fee" : 7885, "reference" : "PoolPay\_GoneFishing", "sender" : "N3ESwXxCAR4jw3GVHgmKiX9zx1ojWEf" }, { "orderid" : "OR35yyj0ce7voew0x8rug0h9jw3rsktrt2p1kdmg4cj1zjnsrgth", "timestamp" : 1674790860, "block" : 94490, "type" : "TRFR", "trfrs" : 1, "receiver" : "NaUPW4uVTisJ4GKmaMxLNzceTPsoFJ", "amount" : 103411950, "fee" : 10342, "reference" : "PoolPay\_ProPool", "sender" : "N3pzgU2jpvhjW6cSJL8zW8Rzj5fJdFa" }, { "orderid" : "OR3anz3h293w60j8xarusptj4001rf6llta9mu2hw80xcqdqclyl", "timestamp" : 1674790860, "block" : 94490, "type" : "TRFR", "trfrs" : 1, "receiver" : "N7U1brSR8RBqrZZGMRhZQ8KP8MPNC1", "amount" : 106220325, "fee" : 10623, "reference" : "PoolPay\_estripa", "sender" : "N2ophUoAzJw9LtgXbYMiB4u5jWWGJF7" }, { "orderid" : "OR3by8qi3029hr8o4z719yg7ssynk41rmckg6ljh3qo1469olhv7", "timestamp" : 1674790860, "block" : 94490, "type" : "TRFR", "trfrs" : 1, "receiver" : "N3ntPfYFhVAkQ281A9QQQFp8MfgFFBv", "amount" : 16138107, "fee" : 1613, "reference" : "PoolPay\_nosomn", "sender" : "N3aXz2RGwj8LAZgtgyyXNRkfQ1EMnFC" }, { "orderid" : "OR3ec1wf3j2iu5aq59cw3lmjamimyqx3ok4ddall6eo3ixxv19lc", "timestamp" : 1674790860, "block" : 94490, "type" : "TRFR", "trfrs" : 1, "receiver" : "Nfk2RJQG7xTUdR8TckhgtrqRLPyGEx", "amount" : 19335694, "fee" : 1933, "reference" : "PoolPay\_nosomn", "sender" : "N3aXz2RGwj8LAZgtgyyXNRkfQ1EMnFC" }, { "orderid" : "OR497zp6zzqlkuh4invtfcex36auh5jo94sfnsh4yl6kpc6e8wo1", "timestamp" : 1674790860, "block" : 94490, "type" : "TRFR", "trfrs" : 1, "receiver" : "N2BhUYhiepHVke8V7NVrUdit42xnAEt", "amount" : 100985255, "fee" : 10099, "reference" : "PoolPay\_ProPool", "sender" : "N3pzgU2jpvhjW6cSJL8zW8Rzj5fJdFa" }, { "orderid" : "OR49y0s7chci0gsekou7up681j7x1iwi5y5nc6c3pvljhpi6d0mx", "timestamp" : 1674790860, "block" : 94490, "type" : "TRFR", "trfrs" : 1, "receiver" : "N3ZMRpo2c6xaJyTUNTeqbFbVZtui3Fb", "amount" : 52771203, "fee" : 5277, "reference" : "PoolPay\_nosomn", "sender" : "N3aXz2RGwj8LAZgtgyyXNRkfQ1EMnFC" }, { "orderid" : "OR50ysk82ve7oreyepl2inib1qpji96y70yxwmo1bjw7l3btf4ny", "timestamp" : 1674790860, "block" : 94490, "type" : "TRFR", "trfrs" : 1, "receiver" : "NaUPW4uVTisJ4GKmaMxLNzceTPsoFJ", "amount" : 112319991, "fee" : 11233, "reference" : "PoolPay\_Auspool", "sender" : "N2MVecGnXGHpN8z4RqwJFXSQP6doVDv" }, { "orderid" : "OR51exobqkcqio2vpkudl40zw3qo3vsrxc4ciu9jio488lmb46w3", "timestamp" : 1674790860, "block" : 94490, "type" : "TRFR", "trfrs" : 1, "receiver" : "N3hUczJ9fy9YVjrZJEDszSzzJEGZcG1", "amount" : 48750633, "fee" : 4875, "reference" : "PoolPay\_GoneFishing", "sender" : "N3ESwXxCAR4jw3GVHgmKiX9zx1ojWEf" }, { "orderid" : "OR52b8v3pupesj2yroa21y55a0kvuegtdehzmol4gsvmhfbm7yxo", "timestamp" : 1674790860, "block" : 94490, "type" : "TRFR", "trfrs" : 1, "receiver" : "N3ntPfYFhVAkQ281A9QQQFp8MfgFFBv", "amount" : 25292295, "fee" : 2529, "reference" : "PoolPay\_GoneFishing", "sender" : "N3ESwXxCAR4jw3GVHgmKiX9zx1ojWEf" }, { "orderid" : "OR5g6b6ihvfeyb2w9914yjgt1abyo35b3pwhh2ok4aravvlpeckm", "timestamp" : 1674790860, "block" : 94490, "type" : "TRFR", "trfrs" : 1, "receiver" : "N3ZMRpo2c6xaJyTUNTeqbFbVZtui3Fb", "amount" : 102614788, "fee" : 10262, "reference" : "PoolPay\_estripa", "sender" : "N2ophUoAzJw9LtgXbYMiB4u5jWWGJF7" }, { "orderid" : "OR5mnzev8nu4dbm5gg8ipq7ievpscmh3p34k8ruacrjbn9wly9ik", "timestamp" : 1674790860, "block" : 94490, "type" : "TRFR", "trfrs" : 1, "receiver" : "N46saT4tFSsqK4y3eP25zbWZdPUVLDg", "amount" : 59681921, "fee" : 5968, "reference" : "PoolPay\_estripa", "sender" : "N2ophUoAzJw9LtgXbYMiB4u5jWWGJF7" }, { "orderid" : "OR5u8yyroegg34si5qgvu4ocn9rq0740xdvjyf8k705qxikwzwz6", "timestamp" : 1674790860, "block" : 94490, "type" : "TRFR", "trfrs" : 1, "receiver" : "N3DtrjYPFq2m8KyzuRhcnghxA5a26FR", "amount" : 5565448, "fee" : 556, "reference" : "PoolPay\_GoneFishing", "sender" : "N3ESwXxCAR4jw3GVHgmKiX9zx1ojWEf" }, { "orderid" : "OR5xfgafgowgfv3945ooi7ly55adsisvmuqtyw6dx0gb4kqb8dtr", "timestamp" : 1674790860, "block" : 94490, "type" : "TRFR", "trfrs" : 1, "receiver" : "N3ntPfYFhVAkQ281A9QQQFp8MfgFFBv", "amount" : 34094467, "fee" : 3409, "reference" : "PoolPay\_estripa", "sender" : "N2ophUoAzJw9LtgXbYMiB4u5jWWGJF7" }, { "orderid" : "OR6263dfd65tp0hw35fs25hf273yl7y7vhnawa6gni1pe3p1r8s5", "timestamp" : 1674790860, "block" : 94490, "type" : "TRFR", "trfrs" : 1, "receiver" : "N3VXG1swUP3n46wUSY5yQmqQiHoaDED", "amount" : 279553169, "fee" : 27958, "reference" : "PoolPay\_GoneFishing", "sender" : "N3ESwXxCAR4jw3GVHgmKiX9zx1ojWEf" }, { "orderid" : "ORctsphhoz57j19ltq360nj1y0yeakxdzfre067ny6kgsl3pf2e", "timestamp" : 1674790860, "block" : 94490, "type" : "TRFR", "trfrs" : 1, "receiver" : "N3ZMRpo2c6xaJyTUNTeqbFbVZtui3Fb", "amount" : 85980786, "fee" : 8598, "reference" : "PoolPay\_ProPool", "sender" : "N3pzgU2jpvhjW6cSJL8zW8Rzj5fJdFa" }, { "orderid" : "ORdzc08qifjjxidryxw4s2w27uhasm7h2s0k6dnybknr4zo4cvb", "timestamp" : 1674790860, "block" : 94490, "type" : "TRFR", "trfrs" : 1, "receiver" : "N3ntPfYFhVAkQ281A9QQQFp8MfgFFBv", "amount" : 25445716, "fee" : 2544, "reference" : "PoolPay\_Auspool", "sender" : "N2MVecGnXGHpN8z4RqwJFXSQP6doVDv" }, { "orderid" : "ORfrrsyo19xq902gn8z79caawrn0e44rwknby2rdwd6vbl4e1cb", "timestamp" : 1674790860, "block" : 94490, "type" : "TRFR", "trfrs" : 1, "receiver" : "Nfk2RJQG7xTUdR8TckhgtrqRLPyGEx", "amount" : 48702853, "fee" : 4870, "reference" : "PoolPay\_estripa", "sender" : "N2ophUoAzJw9LtgXbYMiB4u5jWWGJF7" }, { "orderid" : "ORgbsx3moa075z416vhsajvdmu8stt07xxmo65sir7ho8wuuzbb", "timestamp" : 1674790860, "block" : 94490, "type" : "TRFR", "trfrs" : 1, "receiver" : "N428cGZMiXGA2ggyycxq4gdzGjjyfFv", "amount" : 18412477, "fee" : 1841, "reference" : "PoolPay\_ProPool", "sender" : "N3pzgU2jpvhjW6cSJL8zW8Rzj5fJdFa" }, { "orderid" : "ORjkvficroxm80wspau6wijpfjhn4i9u266g4kv2xz6ld52peal", "timestamp" : 1674790860, "block" : 94490, "type" : "TRFR", "trfrs" : 1, "receiver" : "NaUPW4uVTisJ4GKmaMxLNzceTPsoFJ", "amount" : 106220325, "fee" : 10623, "reference" : "PoolPay\_estripa", "sender" : "N2ophUoAzJw9LtgXbYMiB4u5jWWGJF7" }, { "orderid" : "ORmr4k0kqwcx94kb015ri81zrzdoiku3nf9mnk24g3p961amk7g", "timestamp" : 1674790860, "block" : 94490, "type" : "TRFR", "trfrs" : 1, "receiver" : "N38gR376fhyauhqxvmCNiJWjXxDe8Fb", "amount" : 77018734, "fee" : 7702, "reference" : "PoolPay\_estripa", "sender" : "N2ophUoAzJw9LtgXbYMiB4u5jWWGJF7" }, { "orderid" : "ORsfki5bp7vxurevi1me2hhec8o56vwcwql1vc73bt32x6t8erh", "timestamp" : 1674790860, "block" : 94490, "type" : "TRFR", "trfrs" : 1, "receiver" : "N4KmPqzkYdeZYneAxtjLQCoZyUhDpHT", "amount" : 55091037, "fee" : 5509, "reference" : "PoolPay\_nosomn", "sender" : "N3aXz2RGwj8LAZgtgyyXNRkfQ1EMnFC" }, { "orderid" : "1tRCdcCp42rcLurB6us287Yi6hMpr7TKGC7AqCDsz23cE3MKB", "timestamp" : 1674791399, "block" : 94490, "type" : "PROJCT", "trfrs" : 1, "receiver" : "NpryectdevepmentfundsGE", "amount" : 500019437, "fee" : 0, "reference" : "null", "sender" : "COINBASE" }] }], "id" : 17 }
+{% endhint %}
+
+\
+
+
+<mark style="color:red;">**“getnewaddress”**</mark> returns: the number of new addresses you've specified. (Adds the number of new addresses to RPC wallet)
+
+&#x20;
+
+{% hint style="info" %}
+Example JSON-RPC call:
+
+{ "jsonrpc" : "2.0", "method" : "getnewaddress", "params" : \["2"], "id" : 4 }
+
+Example JSON-RPC Result:
+
+{ "jsonrpc" : "2.0", "result" : \[{ "addresses" : \["N3DXseUPd8QcYf4pYoDzczPzvgJPbGD", "N48Jd43Th4DyDdnSezQhviPGDABRbD5"] }], "id" : 19 }
+{% endhint %}
+
+
+
+
+
+<mark style="color:red;">**“sendfunds”**</mark> returns: the OrderID if the transaction was successful.
+
+{% hint style="info" %}
+Example JSON-RPC call:
+
+{ "jsonrpc" : "2.0", "method" : "sendfunds", "params" : \["N48Jd43Th4DyDdnSezQhviPGDABRbD5", "11000", "Example", "Reference"], "id" : 21 }
+
+Example JSON-RPC Result:
+
+{ "jsonrpc" : "2.0", "result" : \[{ "result" : "Failed" }], "id" : 21 }
+{% endhint %}
+
+\
+\
+\
+<mark style="color:red;">**Links:**</mark>
+
+{% hint style="danger" %}
+In addition, Noso rpctester is provided on the Noso Project repository (here).
+
+[https://github.com/Noso-Project/RPCTester](https://github.com/Noso-Project/RPCTester)
+{% endhint %}
+
+\
+
+
 \
 
 
