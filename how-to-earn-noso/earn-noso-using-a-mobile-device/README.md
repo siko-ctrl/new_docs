@@ -33,29 +33,36 @@ Launch Termux App and perform the following:
 
 
 6-Now that you are logged into Proot-Distro Debian, Update, upgrade and install wget and nano:\
-&#x20;`apt-get update -y && apt-get upgrade -y && apt-get install wget -y && apt-get install nano -y`
+
+
+```
+apt-get update -y && apt-get upgrade -y && apt-get install wget -y && apt-get install nano -y
+```
 
 7-Download "Get Noso" app for your architecture. If you are unsure, type `uname -m` to determine 32bit or 64bit.\
-Download "Get Noso" app (version 1.6). Check [(here)](https://github.com/Noso-Project/noso-website/tree/main/docs/download) for other versions. wget:\
-&#x20;`wget https://nosocoin.com/docs/download/consominer2-v1.6-aarch64-linux`(aarch64)\
-\
-
+Download "Get Noso" app (version 1.6). Check [(here)](https://github.com/Noso-Project/noso-website/tree/main/docs/download) for other versions.
 
 ```
 wget https://nosocoin.com/docs/download/consominer2-v1.6-arm32-linux(arm32)
+wget https://nosocoin.com/docs/download/consominer2-v1.6-aarch64-linux(aarch64)
+```
+
+8-Make "Get Noso" app executable:
+
+```
+chmod +x consominer2-v1.6-aarch64-linux(aarch64)
+chmod +x consominer2-v1.6-arm32-linux(arm32)
+```
+
+**Step 4:**\
+Run "Get Noso" app from within Termux/proot-Distro/Debian:&#x20;
+
+```
+./consominer2-v1.6-aarch64-linux(aarch64)
+./consominer2-v1.6-arm32-linux(arm32)
 ```
 
 \
-
-
-8-Make "Get Noso" app executable:\
-&#x20;`chmod +x consominer2-v1.6-aarch64-linux`(aarch64)\
-`chmod +x consominer2-v1.6-arm32-linux`(arm32)
-
-**Step 4:**\
-Run "Get Noso" app from within Termux/proot-Distro/Debian: \
-`./consominer2-v1.6-aarch64-linux`(aarch64)\
-`./consominer2-v1.6-arm32-linux`(arm32)\
 The inital run creates files needed for further configuration.\
 \
 **Step5:**\
