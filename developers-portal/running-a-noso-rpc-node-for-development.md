@@ -62,7 +62,7 @@ Example JSON-RPC Result:
 
 
 
-“getmainnetinfo” returns: lastblock, lastblockhash, headershash, summaryhash, pending, supply.
+<mark style="color:red;">**“getmainnetinfo”**</mark> returns: lastblock, lastblockhash, headershash, summaryhash, pending, supply.
 
 {% hint style="info" %}
 **Example** JSON-RPC call:
