@@ -1,6 +1,9 @@
 # 💰 Earn Noso on Linux:
 
-<mark style="color:red;">To earn Noso Coins, you will need a wallet and "Noso Earn" software</mark>\
+{% hint style="warning" %}
+<mark style="color:red;">To earn Noso Coins, you will need a wallet and "Noso Earn" software</mark>
+{% endhint %}
+
 \
 **Step 1:**\
 Download the and install latest version of Nosolite wallet for your OS from Github.com [(here)](https://github.com/Noso-Project/NosoLite/releases)\

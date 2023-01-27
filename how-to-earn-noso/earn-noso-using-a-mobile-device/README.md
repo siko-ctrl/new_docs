@@ -1,6 +1,9 @@
 # 💰 Earn Noso using a Mobile Device:
 
-<mark style="color:red;">To earn Noso Coins, you will need a wallet and "Noso Earn" software</mark>\
+{% hint style="warning" %}
+<mark style="color:red;">To earn Noso Coins, you will need a wallet and "Noso Earn" software</mark>
+{% endhint %}
+
 \
 **Step 1:**\
 Download and install the latest version of NosoMobile wallet from Github.com [(here)](https://github.com/Noso-Project/NosoWallet-Android/releases).\
