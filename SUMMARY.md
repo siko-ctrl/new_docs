@@ -19,14 +19,14 @@
 
 ## Setup A Node
 
-* [🛠 Earn running a Node](setup-a-node/earn-running-a-node.md)
-* [List of comands](setup-a-node/list-of-comands.md)
-* [PoWP-Pools](setup-a-node/powp-pools.md)
+* [🛠 Earn running a Node](setup-a-node/earn-running-a-node/README.md)
+  * [List of comands](setup-a-node/earn-running-a-node/list-of-comands.md)
+  * [PoWP-Pools](setup-a-node/earn-running-a-node/powp-pools.md)
 
 ## What is a GVT?
 
-* [🏘 Noso Governance (GVT)](what-is-a-gvt/noso-governance-gvt.md)
-* [GVT polls](what-is-a-gvt/gvt-polls.md)
+* [🏘 Noso Governance (GVT)](what-is-a-gvt/noso-governance-gvt/README.md)
+  * [GVT polls](what-is-a-gvt/noso-governance-gvt/gvt-polls.md)
 
 ## Links
 
@@ -41,7 +41,4 @@
 
 * [Discord](https://discord.gg/GvmxvFbSHa)
 * [Noso-Explorer](https://nosostats.com/explorer.html)
-
-## Developers portal
-
-* [Running A Noso RPC node for development](developers-portal/running-a-noso-rpc-node-for-development.md)
+* [🖥 Noso Developer Portal](https://app.gitbook.com/o/4EBIC7BTTBc0nFvSuAgw/s/poRtoMiAuoTeNOTcvsMZ/)
