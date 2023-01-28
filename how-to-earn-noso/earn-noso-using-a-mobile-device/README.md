@@ -1,4 +1,4 @@
-# 💰 Earn Noso using a Mobile Device:
+# 💰 Earn Noso using a Mobile Device
 
 {% hint style="warning" %}
 <mark style="color:red;">To earn Noso Coins, you will need a wallet and "Noso Earn" software</mark>
@@ -20,19 +20,19 @@ Install the Termux App from FDroid app store [(here)](https://f-droid.org/F-Droi
 **Step 3:**\
 Launch Termux App and perform the following:
 
-1-Update Termux: `pkg update`\
+`1-Update Termux: pkg update`\
+``
 
+`2-Upgrade Termux: pkg upgrade`\
+``
 
-2-Upgrade Termux: `pkg upgrade`\
+`3-Install Proot Distro: pkg install proot-distro`\
+``
 
+`4-Install Debian: proot-distro install debian`\
+``
 
-3-Install Proot Distro: `pkg install proot-distro`\
-
-
-4-Install Debian: `proot-distro install debian`\
-
-
-5-Login to Debian: `proot-distro login debian`\
+`5-Login to Debian: proot-distro login debian`\
 
 
 6-Now that you are logged into Proot-Distro Debian, Update, upgrade and install wget and nano:\
@@ -88,9 +88,7 @@ With configurations in place, you are now ready to start earning coins.\
 Please note, a typical earning period consists of **48 blocks** from the moment you start participating. It takes 7 1/2 hours to go through 48 blocks and you will not see coins in your wallet until after the 7 1/2 hours has lapsed. When participating, you will see a "balance" column with coins pending in green. This is the balance of coins you will receive when your participation period has expired.\
 \
 ![](https://nosocoin.com/docs/images/consominerbal.png)\
-\
 
 
 If you have issues with using Termux with Proot Distro on your device, try Userland following instructions [(here).](userland-instructions.md)
 
-\
