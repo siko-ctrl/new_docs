@@ -1,4 +1,8 @@
-# 🗣 Socials:
+---
+description: Contribute to Noso by following our socials and spreading the word !!!
+---
+
+# 🗣 Socials
 
 ## Discord:
 

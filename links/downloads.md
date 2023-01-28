@@ -1,4 +1,8 @@
-# 🔗 Downloads:
+---
+description: Quick links
+---
+
+# 🔗 Downloads
 
 ## NosoNode:
 

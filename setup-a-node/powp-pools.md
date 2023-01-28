@@ -1,4 +1,4 @@
-# PoWP-Pools:
+# PoWP-Pools
 
 | Name                                               | Host                             | fee(%) |
 | -------------------------------------------------- | -------------------------------- | ------ |
@@ -9,7 +9,7 @@
 | propool (no webpage)                               | 47.87.181.190:8082               | 2%     |
 
 {% hint style="info" %}
-Pools come preconfigured in consominer2 so you don't have to add them automatically
+Pools come preconfigured in consominer2 so you don't have to add them they are added automatically
 {% endhint %}
 
 {% hint style="warning" %}
