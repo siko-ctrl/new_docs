@@ -4,7 +4,7 @@ Built into Noso protocol is a Governance Token (GVT) poll management system. Thi
 
 ## <mark style="color:yellow;">**Governance Tokens have the following specifications:**</mark>
 
-<figure><img src="https://nosocoin.com/docs/images/gvt1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://nosocoin.com/docs/images/gvt1.png" alt=""><figcaption><p>GVT #00</p></figcaption></figure>
 
 * Inital 100 GVTs have been minted
 * GVTs are transferable
