@@ -7,8 +7,8 @@
 
 * [💡 Getting Started](overview/getting-started.md)
 * [✨ Setup a Wallet](overview/setup-a-wallet/README.md)
-  * [Nosolite](overview/setup-a-wallet/nosolite.md)
-  * [Noso-Mobile](overview/setup-a-wallet/noso-mobile.md)
+  * [1⃣ Nosolite](overview/setup-a-wallet/nosolite.md)
+  * [2⃣ Noso-Mobile](overview/setup-a-wallet/noso-mobile.md)
 
 ## How to earn Noso?
 
