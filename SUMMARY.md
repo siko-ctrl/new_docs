@@ -37,6 +37,7 @@
 ## Noso funds
 
 * [Project Funds](noso-funds/project-funds.md)
+* [Donations](noso-funds/donations.md)
 
 ***
 
