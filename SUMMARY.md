@@ -40,6 +40,6 @@
 
 ***
 
-* [Discord](https://discord.gg/GvmxvFbSHa)
+* [Official Discord Server](https://discord.gg/GvmxvFbSHa)
 * [Noso-Explorer](https://nosostats.com/explorer.html)
 * [🖥 Noso Developer Portal](https://app.gitbook.com/o/4EBIC7BTTBc0nFvSuAgw/s/poRtoMiAuoTeNOTcvsMZ/)
