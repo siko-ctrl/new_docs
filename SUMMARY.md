@@ -17,12 +17,12 @@
 * [💰 Earn Noso using a Mobile Device](how-to-earn-noso/earn-noso-using-a-mobile-device/README.md)
   * [Userland instructions](how-to-earn-noso/earn-noso-using-a-mobile-device/userland-instructions.md)
 * [💰 Earn Noso on Linux](how-to-earn-noso/earn-noso-on-linux.md)
+* [PoWP-Pools](how-to-earn-noso/powp-pools.md)
 
 ## Setup A Node
 
 * [🛠 Earn running a Node](setup-a-node/earn-running-a-node/README.md)
   * [List of comands](setup-a-node/earn-running-a-node/list-of-comands.md)
-  * [PoWP-Pools](setup-a-node/earn-running-a-node/powp-pools.md)
 
 ## What is a GVT?
 
