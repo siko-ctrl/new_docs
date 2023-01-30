@@ -3,6 +3,7 @@
 * [👋 Welcome to Noso](README.md)
 * [📜 Whitepaper](whitepaper.md)
 * [📰 NosoProject Roadmap](nosoproject-roadmap.md)
+* [❓ FAQ](faq.md)
 
 ## Overview
 
