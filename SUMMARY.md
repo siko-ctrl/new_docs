@@ -1,7 +1,7 @@
 # Table of contents
 
 * [👋 Welcome to Noso](README.md)
-* [💎 Whitepaper](whitepaper.md)
+* [📜 Whitepaper](whitepaper.md)
 * [📰 NosoProject Roadmap](nosoproject-roadmap.md)
 
 ## Overview

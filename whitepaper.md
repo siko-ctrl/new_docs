@@ -1,5 +1,3 @@
-# 💎 Whitepaper
+# 📜 Whitepaper
 
-{% file src=".gitbook/assets/NosoWhitepaper.pdf" %}
-pdf version
-{% endfile %}
+{% file src=".gitbook/assets/NosoWhitepaper_v4.pdf" %}
