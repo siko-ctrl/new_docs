@@ -23,7 +23,7 @@ These measures allow anyone with interest in crypto to engage in the project and
 
 In Noso, a block is created every 600 seconds and new coins are minted. These new coins are split between <mark style="color:yellow;">**masternode**</mark>, <mark style="color:yellow;">**project funds**</mark>, and <mark style="color:yellow;">**PoPW**</mark>. The PoPW reward is the percentage of coins left over once MN and project funds have been distributed. In the rare event all PoPW pools are unavailable or down, this leftover PoPW reward is forwarded to the Noso project funds address, “<mark style="color:red;">**NpryectdevepmentfundsGE**</mark>.”
 
-## If you have more questions check(Or ask us on Discord)
+## If you have more questions check(Or ask us on [Discord](https://discord.com/invite/GvmxvFbSHa))
 
 {% content-ref url="popw-faq.md" %}
 [popw-faq.md](popw-faq.md)
