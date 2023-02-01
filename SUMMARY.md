@@ -15,7 +15,7 @@
 ## How to earn Noso?
 
 * [⛏ PoPW Explanation](how-to-earn-noso/popw-explanation/README.md)
-  * [Proof of Participation on Work Network AI (PoPW net AI) (under development)](how-to-earn-noso/popw-explanation/proof-of-participation-on-work-network-ai-popw-net-ai-under-development.md)
+  * [PoPW Net AI](how-to-earn-noso/popw-explanation/popw-net-ai.md)
 * [💰 Earn Noso on Windows](how-to-earn-noso/earn-noso-on-windows.md)
 * [💰 Earn Noso using a Mobile Device](how-to-earn-noso/earn-noso-using-a-mobile-device/README.md)
   * [Userland instructions](how-to-earn-noso/earn-noso-using-a-mobile-device/userland-instructions.md)
