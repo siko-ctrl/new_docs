@@ -45,7 +45,4 @@
 
 ***
 
-* [Official Github page](https://github.com/Noso-Project)
-* [Official Discord Server](https://discord.gg/GvmxvFbSHa)
-* [Noso-Explorer](https://explorer.nosocoin.com/explorer.html)
 * [🖥 Noso Developer Portal](https://app.gitbook.com/o/4EBIC7BTTBc0nFvSuAgw/s/poRtoMiAuoTeNOTcvsMZ/)
