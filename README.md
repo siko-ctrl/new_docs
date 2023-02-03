@@ -32,8 +32,4 @@ Noso, a project created by an anonymous team with extensive experience in crypto
 
 ## <mark style="color:yellow;">What makes Noso Unique?</mark>
 
-Noso was created from the ground up to cater to the needs of millions of users by prioritizing reliability, scalability, privacy, security, and usability. Instead of prioritizing marketing, the development team chose to focus on creating a functional technology first, using the philosophy "build it and they will come."
-
-
-
-{% file src=".gitbook/assets/Nosov2-1080 (2).mp4" %}
+Noso was created from the ground up to accommodate a vast number of users, providing increased dependability, scalability, confidentiality, protection, and ease of use. The approach was based on the philosophy of "if you build it, they will come", as the team prioritized the development of functional technology before turning their attention to promotion.
