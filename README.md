@@ -26,6 +26,14 @@ description: Network Of Sustainable Opportunity
 * Block time: 600 seconds
 * Premine: 0.049% (10303.9073 Noso) used as development fund.
 
-{% embed url="https://github.com/Noso-Project" %}
+## <mark style="color:yellow;">Who are the Founders of Noso?</mark>
+
+Noso, a project created by an anonymous team with extensive experience in cryptography and blockchain development, was launched in December 2021 by a full-time developer. Despite the team's anonymity, their experience, combined with the complex nature of the project and its milestones (such as the creation of a new consensus mechanism in Pascal, a secure programming language), suggest that Noso was developed by experts with extensive hands-on experience in the field of cryptography.
+
+## <mark style="color:yellow;">What makes Noso Unique?</mark>
+
+Noso was created from the ground up to cater to the needs of millions of users by prioritizing reliability, scalability, privacy, security, and usability. Instead of prioritizing marketing, the development team chose to focus on creating a functional technology first, using the philosophy "build it and they will come."
+
+
 
 {% file src=".gitbook/assets/Nosov2-1080 (2).mp4" %}
