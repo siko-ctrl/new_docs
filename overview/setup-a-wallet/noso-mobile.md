@@ -1,6 +1,6 @@
 # 2⃣ Noso-Mobile
 
-## Noso Mobile Wallet:
+## <mark style="color:yellow;">Noso Mobile Wallet</mark>:
 
 NosoMobile wallet allows users the ability to generate new addresses, assign aliases to addresses, import or export addresses, password encrypt wallet addresses, and send and receive coins to and from other Noso coin holders. NosoMobile is available for Android OS. Once installed, NosoMobile will auto-create one default address and is ready for use.
 

@@ -1,12 +1,12 @@
-# List of comands:
+# List of comands
 
-<mark style="color:red;">Performance:</mark>
+<mark style="color:yellow;">**Performance:**</mark>
 
 * system power (shows node processing power Trx/s)
 * system mem (shows node system memory MB)
 * system downspeed (shows internet speed Kb/s)\
   \
-  <mark style="color:red;">Node:</mark>
+  <mark style="color:yellow;">**Node:**</mark>
 * ver (current NosoNode version )
 * serveron (starts server )
 * serveroff (stops server)
@@ -95,13 +95,13 @@
 * header ()
 * headsize (header size)\
   \
-  <mark style="color:red;">Consulting:</mark>
+  <mark style="color:yellow;">Consulting:</mark>
 * netrate (total network hashrate)
 * listgvt (shows all gvts)
 * nosocfg (shows noso config)
 * funds (shows project funds)\
   \
-  <mark style="color:red;">Debug:</mark>
+  <mark style="color:yellow;">Debug:</mark>
 * posstack (shows all addresses with node stake amount)
 * blockmns (block) (shows all node addresses on block)
 * myip (shows public IP of node)
@@ -118,16 +118,16 @@
 * freezed ()
 * optsum (optimizes summary)\
   \
-  <mark style="color:red;">P2P:</mark>
+  <mark style="color:yellow;">**P2P:**</mark>
 * peers ()
 * freezed (Locked addresses)\
   \
-  <mark style="color:red;">RPC:</mark>
+  <mark style="color:yellow;">**RPC:**</mark>
 * peers (peers)
 * rpcon (turns rpc server on)
 * rpcoff (turns rpc server off)\
   \
-  <mark style="color:red;">Exchange:</mark>
+  <mark style="color:yellow;">**Exchange:**</mark>
 * post (posts offer)
 
 \

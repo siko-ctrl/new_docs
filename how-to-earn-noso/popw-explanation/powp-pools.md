@@ -16,6 +16,6 @@ Pools come preconfigured in consominer2 so you don't have to add them they are a
 Please note that to run your own pool you have to own a GVT + A vote must happen for your pool to get listed refer [(here)](broken-reference) to purchase your GVT.
 {% endhint %}
 
-## check pools on miningpoolstats:
+## <mark style="color:yellow;">Check pools on miningpoolstats</mark>:
 
 {% embed url="https://miningpoolstats.stream/nosocoin" %}

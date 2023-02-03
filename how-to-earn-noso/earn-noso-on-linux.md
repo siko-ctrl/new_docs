@@ -1,4 +1,4 @@
-# 💰 Earn Noso on Linux:
+# 💰 Earn Noso on Linux
 
 {% hint style="warning" %}
 <mark style="color:red;">To earn Noso Coins, you will need a wallet and "Noso Earn" software</mark>
@@ -46,4 +46,4 @@ Please note, a typical earning period consists of **48 blocks** from the moment 
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-## Happy Earning!!!
+## <mark style="color:yellow;">Happy Earning!!!</mark>

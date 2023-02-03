@@ -4,15 +4,15 @@ description: Network Of Sustainable Opportunity
 
 # 👋 Welcome to Noso
 
-### What is Noso? <a href="#overview" id="overview"></a>
+### What is <mark style="color:yellow;">Noso</mark>? <a href="#overview" id="overview"></a>
 
 > #### **Noso is a dynamic and sustainable Peer-to-Peer crypto currency and platform, accessible to consumers and merchants, is fast, reliable, and secure with minimal transaction costs. The Noso platform has been designed from the ground up by a team with more than a decade of experience in Blockchain technologies.**
 
 > #### Noso has a strong focus on sustainability, scalability, and transparency. It is an open source project that aims to deliver an equitable and sustainable infrastructure for financial and social applications on a global scale.
 
-> #### Noso uses a democratic governance system (GVT) built into mainnet which will allow the project to evolve over time and promote contributor participation. The project will fund itself in a sustainable way through the use of project funds derived from the creation of each block.
+> #### Noso uses a democratic governance system (GVT) built into Mainnet which will allow the project to evolve over time and promote contributor participation. The project will fund itself in a sustainable way through the use of project funds derived from the creation of each block.
 
-### Specs: <a href="#specs" id="specs"></a>
+### <mark style="color:yellow;">Specs</mark>: <a href="#specs" id="specs"></a>
 
 * Name: Noso
 * Ticker: NOSO

@@ -77,7 +77,7 @@ Make sure "consominer2.cfg" exists by typing `ls` You should see files similar t
 Use nano to edit the consominer2.cfg:`nano consominer2.cfg`\
 Update, copy/paste your wallet address into configuration, set your CPU, and test to "false"\
 \
-SEE IMAGE BELOW:\
+<mark style="color:yellow;">**SEE IMAGE BELOW**</mark>:\
 \
 ![consominer2 config](https://nosocoin.com/docs/images/consominercfg.png)\
 \
