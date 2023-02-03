@@ -4,9 +4,13 @@ description: Network Of Sustainable Opportunity
 
 # 👋 Welcome to Noso
 
-### Overview: <a href="#overview" id="overview"></a>
+### What is Noso? <a href="#overview" id="overview"></a>
 
-> Noso is a next generation Peer-to-Peer cryptocurrency that is accessible to consumers and merchants, is fast, reliable, and secure with minimal transaction costs. Noso has its own lightweight blockchain which is not a fork, token, or copy of any other existing code-base. With Noso’s unique “Nosohash” algorithm and consensus ensuring decentralized masternodes (MN), the network is immune to 51% PoW attacks. Noso coins can be earned through Proof of participation on work (PoPW) on any CPU based device. The project goal is to create a unique and sustainable cryptocurrency with fair distribution that will be widely used for the payment of goods and services online, without a need for third parties or intermediaries.
+> #### **Noso is a dynamic and sustainable Peer-to-Peer crypto currency and platform, accessible to consumers and merchants, is fast, reliable, and secure with minimal transaction costs. The Noso platform has been designed from the ground up by a team with more than a decade of experience in Blockchain technologies.**
+
+> #### Noso has a strong focus on sustainability, scalability, and transparency. It is an open source project that aims to deliver an equitable and sustainable infrastructure for financial and social applications on a global scale.
+
+> #### Noso uses a democratic governance system (GVT) built into mainnet which will allow the project to evolve over time and promote contributor participation. The project will fund itself in a sustainable way through the use of project funds derived from the creation of each block.
 
 ### Specs: <a href="#specs" id="specs"></a>
 
