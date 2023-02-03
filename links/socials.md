@@ -4,26 +4,10 @@ description: Contribute to Noso by following our socials and spreading the word 
 
 # 🗣 Socials
 
-## Discord:
+## Twitter:
 
-{% embed url="https://discord.gg/GvmxvFbSHa" %}
+{% embed url="https://twitter.com/NosoCoin/" %}
 
 ## Telegram:
 
 {% embed url="https://t.me/nosocoin" %}
-
-## Reddit:
-
-{% embed url="https://www.reddit.com/r/NosoCoin/" %}
-
-## Facebook:
-
-{% embed url="https://www.facebook.com/Nosocoincom-102138215319429/" %}
-
-## Instagram:
-
-{% embed url="https://www.instagram.com/nosocoin/" %}
-
-## Tiktok:
-
-{% embed url="https://www.tiktok.com/@nosocoin?" %}
