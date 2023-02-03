@@ -43,3 +43,11 @@ This can be done from inside any of the Noso Wallets. From within Nosolite, righ
 Yes. Please refer to the [docs](https://docs.nosocoin.com/noso-documentation/how-to-earn-noso/earn-noso-using-a-mobile-device) on how to earn Noso with a smartphone. Remember to use the latest PoPW compatible app for your hardware.
 
 </details>
+
+<details>
+
+<summary>What is PoPW?</summary>
+
+Full explanation is [here](how-to-earn-noso/popw-explanation/)
+
+</details>
