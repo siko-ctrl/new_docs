@@ -23,3 +23,4 @@ Built into the Noso protocol is the concept of assigning an “alias” to your 
 2. <mark style="color:yellow;">**Click “OK”**</mark>
 3. <mark style="color:yellow;">**Wait one block.  Once clicking “OK” your Noso Address will be updated on the following block.**</mark>
 
+<figure><img src="https://lh4.googleusercontent.com/Le66-Q8bippLM9EYhDQfHvzPxuMDEsurEvmkmhHkBLGPyNh4QPCah3lHJkI_XlVExZS_JWvt8U0lt8zEb5w_cxPiz-K2JxTWtfwoTiMXEAeXwp7lNS_nffkcZDHjtarEEiIwi7btql8klyPb4SXm1-g" alt=""><figcaption></figcaption></figure>
