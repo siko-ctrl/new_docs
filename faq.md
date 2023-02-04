@@ -14,6 +14,14 @@ At the moment Noso is tradeable [(here)](https://siko-ctrl.github.io/NosoMarket/
 
 <details>
 
+<summary>What is the earning / mining rewards time period?</summary>
+
+A typical earning period consists of 48 blocks from the moment you start participating. It takes 7 1/2 hours to go through 48 blocks and you will not see coins in your wallet until after the 7 1/2 hours has lapsed. When participating, you will see a "balance" column with coins pending in green. This is the balance of coins you will receive when your participation period has expired.
+
+</details>
+
+<details>
+
 <summary><strong>Why is noso.exe and consominer2.exe flagged as a virus?</strong></summary>
 
 In the last decade or so, the anti-virus software began using a method called heuristics to better detect viruses that had code to evade detection. While that helped with a better detection, it also came with the undesirable side effect of false positives. This happens more often with non-signed software that has code to access the Internet. Since both, the wallet and the earning app do access the Internet, they trigger a false positive. They do not have a virus, they just tickle the anti-virus software the wrong way.
