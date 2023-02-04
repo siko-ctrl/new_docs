@@ -30,9 +30,17 @@ A typical earning period consists of 48 blocks from the moment you start partici
 
 <details>
 
+<summary>Will consominer2 run on RaspPi 4?</summary>
+
+Yes, just download the Arm version [here](https://github.com/Noso-Project/consominer2/releases/latest)
+
+</details>
+
+<details>
+
 <summary>what is JSON-RPC?</summary>
 
-
+A Noso Remote Procedure Call (RPC) node is a type server that allows users to read data on the Noso blockchain and manipulate it for various purposes. Full details [here](https://docs.nosocoin.com/noso-developers-portal/rpc-connection/running-a-noso-rpc-node-for-development) (for exchanges)
 
 </details>
 
