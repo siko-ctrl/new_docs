@@ -1,6 +1,5 @@
 ---
 description: Network Of Sustainable Opportunity
-layout: landing
 ---
 
 # 👋 Welcome to Noso
