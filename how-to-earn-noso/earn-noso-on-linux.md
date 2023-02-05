@@ -1,7 +1,7 @@
 # 💰 Earn Noso on Linux
 
 {% hint style="warning" %}
-<mark style="color:red;">To earn Noso Coins, you will need a wallet and "Noso Earn" software</mark>
+<mark style="color:red;">To earn Noso, you need a wallet and "Noso Earn" software</mark>
 {% endhint %}
 
 \
