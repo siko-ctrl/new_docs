@@ -2,11 +2,11 @@
 
 ## Error Codes:
 
-* 04 - Sending an existing share
-* 05 - Invalid share
-* 07 - Wrong share
-* 11 - Using TOR
-* 12 - Using VPN
+* <mark style="color:green;">**04 - Sending an existing share**</mark>
+* <mark style="color:green;">**05 - Invalid share**</mark>
+* <mark style="color:green;">**07 - Wrong share**</mark>
+* <mark style="color:green;">**11 - Using TOR**</mark>
+* <mark style="color:green;">**12 - Using VPN**</mark>
 
 {% hint style="danger" %}
 share12 displayed when
