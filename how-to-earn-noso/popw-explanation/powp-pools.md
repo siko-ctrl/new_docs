@@ -1,12 +1,12 @@
 # PoWP-Pools
 
-| Name                                               | Host                             | fee(%) |
-| -------------------------------------------------- | -------------------------------- | ------ |
-| [nosofish.xyz](https://info.nosofish.xyz/)         | nosofish.xyz:8082                | 2%     |
-| [nosomn.com](https://nosomn.com/?page\_id=507)     | pool.nosomn.com:8082             | 2%     |
-| [estripa.online](https://infopool.estripa.online/) | **nosopool.estripa.online:8082** | 2%     |
-| [auspool.au](https://auspool.au/)                  | 159.196.1.198:8082               | 2%     |
-| propool (no webpage)                               | 47.87.181.190:8082               | 2%     |
+| Name                                               | Host                         | fee(%) |
+| -------------------------------------------------- | ---------------------------- | ------ |
+| [nosofish.xyz](https://info.nosofish.xyz/)         | nosofish.xyz:8082            | 2%     |
+| [nosomn.com](https://nosomn.com/?page\_id=507)     | pool.nosomn.com:8082         | 2%     |
+| [estripa.online](https://infopool.estripa.online/) | nosopool.estripa.online:8082 | 2%     |
+| [auspool.au](https://auspool.au/)                  | 159.196.1.198:8082           | 2%     |
+| propool (no webpage)                               | 47.87.181.190:8082           | 2%     |
 
 {% hint style="danger" %}
 Pools come preconfigured in consominer2 so you don't have to add them they are added automatically
