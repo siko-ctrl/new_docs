@@ -1,7 +1,7 @@
 # 💰 Earn Noso on Linux
 
 {% hint style="warning" %}
-<mark style="color:red;">To earn Noso Coins, you will need a wallet and "Noso Earn" software</mark>
+<mark style="color:red;">To earn Noso, you need a wallet and "Noso Earn" software</mark>
 {% endhint %}
 
 \
@@ -14,11 +14,11 @@ Download and install the latest "Get Noso"software from Github.com [(here)](http
 
 From within a terminal on your Linux machine, enter the following commands:
 
-* <mark style="color:red;">`sudo apt-get update -y && apt-get upgrade -y`</mark>
-* <mark style="color:red;">`wget https://github.com/Noso-Project/consominer2/releases/consominer2-v1.6-x86_64-linux.tar.gz`</mark>\ <mark style="color:red;"></mark>
-* <mark style="color:red;">`tar -xvzf consominer2-v1.6-x86_64-linux.tar.gz`</mark>\ <mark style="color:red;"></mark>
-* <mark style="color:red;">`chmod +x consominer2-v1.6-x86_64-linux`</mark>\ <mark style="color:red;"></mark>
-* <mark style="color:red;">`./consominer2-v1.6-x86_64-linux`</mark>
+* <mark style="color:red;">**`sudo apt-get update -y && apt-get upgrade -y`**</mark>
+* <mark style="color:red;">**`wget https://github.com/Noso-Project/consominer2/releases/consominer2-v1.6-x86_64-linux.tar.gz`**</mark>\ <mark style="color:red;">****</mark>
+* <mark style="color:red;">**`tar -xvzf consominer2-v1.6-x86_64-linux.tar.gz`**</mark>\ <mark style="color:red;">****</mark>
+* <mark style="color:red;">**`chmod +x consominer2-v1.6-x86_64-linux`**</mark>\ <mark style="color:red;">****</mark>
+* <mark style="color:red;">**`./consominer2-v1.6-x86_64-linux`**</mark>
 
 {% hint style="info" %}
 Note, these s assume x86 64bit hardware. If your system has an arm or aarch64 CPU, you will need to use a different binary. Refer to Earn Noso on a Mobile Device for your ARM binary download.
