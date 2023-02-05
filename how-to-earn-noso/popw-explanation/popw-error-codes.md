@@ -8,7 +8,7 @@
 * 11 - Using TOR
 * 12 - Using VPN
 
-{% hint style="info" %}
+{% hint style="danger" %}
 share12 displayed when
 
 1. nosoAddress uses VPN/VPS/RELAY/PROXY
