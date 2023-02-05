@@ -12,10 +12,10 @@ description: Proof Of Participation On Work
 
 With PoPW, the project aims to deter participants from engaging in avaricious behavior by capping the maximum difficulty for submitted Nosohash shares and equalizing the power of all connected devices. This feature makes simple arm devices similar in power to that of a GPU. In addition, Noso PoPW limits each participant to a nominal “submitted share” amount per public IP address space. This means if a single user has ten devices in their home, their earning potential is equal to that of someone who has one device. Also, to deter participants from maximizing on freely available IP address space, an artificial intelligence database watches for and filters the following categories from successfully submitting Nosohash shares.
 
-* TOR
-* VPN's
-* Proxies
-* Vps provider IP Ranges
+* <mark style="color:purple;">**TOR**</mark>
+* <mark style="color:purple;">**VPN's**</mark>
+* <mark style="color:purple;">**Proxies**</mark>
+* <mark style="color:purple;">**Vps provider IP Ranges**</mark>
 
 {% hint style="warning" %}
 These measures allow anyone with interest in crypto to engage in the project and earn a fair amount of Noso without concern that a single person or professional miner is accumulating the majority of coins.
