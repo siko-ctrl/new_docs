@@ -1,7 +1,7 @@
 # 💰 Earn Noso using a Mobile Device
 
 {% hint style="warning" %}
-<mark style="color:red;">To earn Noso , you  need a wallet and "Noso Earn" software</mark>
+<mark style="color:red;">To earn Noso Coins, you will need a wallet and "Noso Earn" software</mark>
 {% endhint %}
 
 \
@@ -20,20 +20,20 @@ Install the Termux App from FDroid app store [(here)](https://f-droid.org/F-Droi
 **Step 3:**\
 Launch Termux App and perform the following:
 
-`1-Update Termux:`` `**`pkg update`**\
+`1-Update Termux: pkg update`\
 ``
 
-`2-Upgrade Termux:`` `**`pkg upgrade`**\
+`2-Upgrade Termux: pkg upgrade`\
 ``
 
-`3-Install Proot Distro:`` `**`pkg install proot-distro`**\
+`3-Install Proot Distro: pkg install proot-distro`\
 ``
 
-`4-Install Debian:`` `**`proot-distro install debian`**\
-**``**
+`4-Install Debian: proot-distro install debian`\
+``
 
-`5-Login to Debian:`` `**`proot-distro login debian`**\
-****
+`5-Login to Debian: proot-distro login debian`\
+
 
 6-Now that you are logged into Proot-Distro Debian, Update, upgrade and install wget and nano:\
 
