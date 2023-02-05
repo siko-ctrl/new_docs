@@ -15,6 +15,7 @@
 ## How to earn Noso?
 
 * [⛏ PoPW Explanation](how-to-earn-noso/popw-explanation/README.md)
+  * [PoPW Error Codes](how-to-earn-noso/popw-explanation/popw-error-codes.md)
   * [PoPW FAQ](how-to-earn-noso/popw-explanation/popw-faq.md)
   * [PoPW Net AI](how-to-earn-noso/popw-explanation/popw-net-ai.md)
   * [PoWP-Pools](how-to-earn-noso/popw-explanation/powp-pools.md)
