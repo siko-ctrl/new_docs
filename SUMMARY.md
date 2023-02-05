@@ -27,7 +27,7 @@
 ## Setup A Node
 
 * [🛠 Earn running a Node](setup-a-node/earn-running-a-node/README.md)
-  * [List of comands](setup-a-node/earn-running-a-node/list-of-comands.md)
+  * [List of  node commands](setup-a-node/earn-running-a-node/list-of-node-commands.md)
 
 ## What is a GVT?
 
