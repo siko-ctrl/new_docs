@@ -19,3 +19,11 @@ Built into Noso protocol is a Governance Token (GVT) poll management system. Thi
 {% hint style="info" %}
 **Example GVT poll:** Should NOSO reduce the PoPW reward to 5%?
 {% endhint %}
+
+<details>
+
+<summary>You can see latest GVT polls here</summary>
+
+## [here](gvt-polls.md)
+
+</details>
