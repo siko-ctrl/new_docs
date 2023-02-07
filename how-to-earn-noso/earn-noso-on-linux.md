@@ -15,7 +15,7 @@ Download and install the latest "Get Noso"software from Github.com [(here)](http
 From within a terminal on your Linux machine, enter the following commands:
 
 * <mark style="color:red;">**`sudo apt-get update -y && apt-get upgrade -y`**</mark>
-* <mark style="color:red;">**`wget https://github.com/Noso-Project/consominer2/releases/consominer2-v1.6-x86_64-linux.tar.gz`**</mark>\ <mark style="color:red;">****</mark>
+* <mark style="color:red;">**`wget`**</mark> [<mark style="color:red;">**`https://github.com/Noso-Project/consominer2/releases/download/v1.6/consominer2-v1.6-x86_64-linux.tar.gz`**</mark>](https://github.com/Noso-Project/consominer2/releases/download/v1.6/consominer2-v1.6-x86\_64-linux.tar.gz)<mark style="color:red;">****</mark>\ <mark style="color:red;">****</mark>
 * <mark style="color:red;">**`tar -xvzf consominer2-v1.6-x86_64-linux.tar.gz`**</mark>\ <mark style="color:red;">****</mark>
 * <mark style="color:red;">**`chmod +x consominer2-v1.6-x86_64-linux`**</mark>\ <mark style="color:red;">****</mark>
 * <mark style="color:red;">**`./consominer2-v1.6-x86_64-linux`**</mark>
