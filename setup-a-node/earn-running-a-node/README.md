@@ -13,7 +13,7 @@ To run a masternode, from inside of NosoNode, enter your funds address (address 
 {% hint style="warning" %}
 Funds address: address containing the staking amount (<mark style="color:green;">receives node reward</mark>)
 
-Sign address : any address in your wallet except the funds address
+Sign address: any address in your wallet except the funds address
 {% endhint %}
 
 \
