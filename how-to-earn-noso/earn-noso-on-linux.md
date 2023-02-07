@@ -20,8 +20,10 @@ From within a terminal on your Linux machine, enter the following commands:
 * <mark style="color:red;">**`chmod +x consominer2-v1.6-x86_64-linux`**</mark>\ <mark style="color:red;">****</mark>
 * <mark style="color:red;">**`./consominer2-v1.6-x86_64-linux`**</mark>
 
-{% hint style="info" %}
+{% hint style="danger" %}
 Note, these  assume x86 64bit hardware. If your system has an arm or aarch64 CPU, you will need to use a different binary. Refer to Earn Noso on a Mobile Device for your ARM binary download.
+
+<mark style="color:red;">**ALSO please notice that if your linux version is Ubuntu 20 and bellow you will need to the run the mirror version**</mark>
 {% endhint %}
 
 \
