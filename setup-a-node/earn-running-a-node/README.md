@@ -8,6 +8,14 @@ To run a masternode, from inside of NosoNode, enter your funds address (address 
 \
 <mark style="color:yellow;">**Masternodes (MN)**</mark>\
 ![Noso Node](https://nosocoin.com/docs/images/nosonode2.png)\
+
+
+{% hint style="warning" %}
+Funds address: address containing the staking amount (receives node reward)
+
+Sign address : any address in your wallet except the funds address
+{% endhint %}
+
 \
 Download the latest Noso Node software [(here)](https://github.com/Noso-Project/NosoNode/releases)\
 \
