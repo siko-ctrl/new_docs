@@ -21,7 +21,7 @@ From within a terminal on your Linux machine, enter the following commands:
 * <mark style="color:red;">**`./consominer2-v1.6-x86_64-linux`**</mark>
 
 {% hint style="info" %}
-Note, these s assume x86 64bit hardware. If your system has an arm or aarch64 CPU, you will need to use a different binary. Refer to Earn Noso on a Mobile Device for your ARM binary download.
+Note, these  assume x86 64bit hardware. If your system has an arm or aarch64 CPU, you will need to use a different binary. Refer to Earn Noso on a Mobile Device for your ARM binary download.
 {% endhint %}
 
 \
