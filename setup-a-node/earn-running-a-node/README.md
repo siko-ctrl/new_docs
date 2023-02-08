@@ -17,9 +17,9 @@ Sign address: any address in your wallet except the funds address
 {% endhint %}
 
 \
-Download the latest Noso Node software [(here)](https://github.com/Noso-Project/NosoNode/releases)\
-\
-**Minimum recommended requirements for running a masternode**
+Download the latest Noso Node software [(here)](https://github.com/Noso-Project/NosoNode/releases)
+
+## **Minimum recommended requirements for running a node:**
 
 * System running Windows or Linux OS
 * 64bit based hardware.
