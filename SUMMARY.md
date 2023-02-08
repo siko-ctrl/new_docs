@@ -3,7 +3,7 @@
 * [👋 Welcome to Noso](README.md)
 * [📜 Whitepaper](whitepaper.md)
 * [📰 NosoProject Roadmap](nosoproject-roadmap.md)
-* [❓ FAQs & Troubleshooting](faqs-and-troubleshooting.md)
+* [❓ FAQs & Troubleshooting](faq.md)
 
 ## Overview
 
@@ -44,6 +44,6 @@
 * [Project Funds](noso-funds/project-funds.md)
 * [Donations](noso-funds/donations.md)
 
-***
+## 📚 Developer Resources
 
 * [🖥 Noso Developer Portal](https://app.gitbook.com/o/4EBIC7BTTBc0nFvSuAgw/s/poRtoMiAuoTeNOTcvsMZ/)

@@ -2,7 +2,7 @@
 description: FREQUENTLY ASKED QUESTIONS
 ---
 
-# ❓ FAQ
+# ❓ FAQs & Troubleshooting
 
 <details>
 
