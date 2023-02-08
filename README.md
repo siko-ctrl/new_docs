@@ -1,8 +1,6 @@
----
-description: Network Of Sustainable Opportunity
----
-
 # 👋 Welcome to Noso
+
+## <mark style="color:yellow;">N</mark>etwork <mark style="color:yellow;">O</mark>f  <mark style="color:yellow;">S</mark>ustainable <mark style="color:yellow;">O</mark>pportunity
 
 ### What is <mark style="color:yellow;">Noso</mark>? <a href="#overview" id="overview"></a>
 
