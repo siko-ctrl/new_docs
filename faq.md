@@ -6,38 +6,6 @@ description: FREQUENTLY ASKED QUESTIONS
 
 <details>
 
-<summary>How can i buy Noso?</summary>
-
-At the moment Noso is tradeable [(here)](https://siko-ctrl.github.io/NosoMarket/) in the future implementation of NoBiEx and liquidity pool will provide the ability to purchase Noso. Please refer to our [roadmap](nosoproject-roadmap.md).
-
-</details>
-
-<details>
-
-<summary>What is PoPW?</summary>
-
-Full explanation is [here](how-to-earn-noso/popw-explanation/)
-
-</details>
-
-<details>
-
-<summary>What is the earning / mining rewards time period?</summary>
-
-A typical earning period consists of 48 blocks from the moment you start participating. It takes 7 1/2 hours to go through 48 blocks and you will not see coins in your wallet until after the 7 1/2 hours has lapsed. When participating, you will see a "balance" column with coins pending in green. This is the balance of coins you will receive when your participation period has expired.
-
-</details>
-
-<details>
-
-<summary>Will consominer2 run on RaspPi 4?</summary>
-
-Yes, just download the Arm version [here](https://github.com/Noso-Project/consominer2/releases/latest)
-
-</details>
-
-<details>
-
 <summary>what is JSON-RPC?</summary>
 
 A Noso Remote Procedure Call (RPC) node is a type server that allows users to read data on the Noso blockchain and manipulate it for various purposes. Full details [here](https://docs.nosocoin.com/noso-developers-portal/rpc-connection/running-a-noso-rpc-node-for-development) (for exchanges)
@@ -73,6 +41,14 @@ This can be done from inside any of the Noso Wallets. From within Nosolite, righ
 <summary><strong>Can Noso be earned from a smartphone?</strong></summary>
 
 Yes. Please refer to the [docs](https://docs.nosocoin.com/noso-documentation/how-to-earn-noso/earn-noso-using-a-mobile-device) on how to earn Noso with a smartphone. Remember to use the latest PoPW compatible app for your hardware.
+
+</details>
+
+<details>
+
+<summary>Am having error /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34' not found  when running noso node how to fix it?</summary>
+
+
 
 </details>
 
