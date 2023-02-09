@@ -29,10 +29,10 @@
 * [🛠 Earn Noso running a Node](setup-a-node/earn-running-a-node/README.md)
   * [List of  node commands](setup-a-node/earn-running-a-node/list-of-node-commands.md)
 
-## What is a GVT?
+## Governance
 
-* [🏘 Noso Governance (GVT)](what-is-a-gvt/noso-governance-gvt/README.md)
-  * [GVT polls](what-is-a-gvt/noso-governance-gvt/gvt-polls.md)
+* [🏘 Noso Governance (GVT)](governance/noso-governance-gvt/README.md)
+  * [GVT polls](governance/noso-governance-gvt/gvt-polls.md)
 
 ## Links
 
