@@ -24,10 +24,10 @@
   * [Userland instructions](how-to-earn-noso/earn-noso-using-a-mobile-device/userland-instructions.md)
 * [💰 Earn Noso on Linux](how-to-earn-noso/earn-noso-on-linux.md)
 
-## Setup A Node
+## Setup a node and contribute to Noso
 
-* [🛠 Earn running a Node](setup-a-node/earn-running-a-node/README.md)
-  * [List of  node commands](setup-a-node/earn-running-a-node/list-of-node-commands.md)
+* [🛠 Earn Noso running a Node](setup-a-node-and-contribute-to-noso/earn-noso-running-a-node/README.md)
+  * [List of  node commands](setup-a-node-and-contribute-to-noso/earn-noso-running-a-node/list-of-node-commands.md)
 
 ## What is a GVT?
 
