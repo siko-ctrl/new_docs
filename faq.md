@@ -46,9 +46,9 @@ Yes. Please refer to the [docs](https://docs.nosocoin.com/noso-documentation/how
 
 <details>
 
-<summary>Am having error `GLIBC_2.34' not found  when running noso node how to fix it?</summary>
+<summary>`GLIBC_2.34' not found  when running noso node how to fix it?</summary>
 
-
+<mark style="color:red;">**latest Github releases will not work on Ubuntu 20,Ubuntu 18 and under ,you need Ubuntu 22.**</mark>
 
 </details>
 
