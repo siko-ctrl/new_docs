@@ -46,7 +46,7 @@ Yes. Please refer to the [docs](https://docs.nosocoin.com/noso-documentation/how
 
 <details>
 
-<summary>Am having error /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34' not found  when running noso node how to fix it?</summary>
+<summary>Am having error `GLIBC_2.34' not found  when running noso node how to fix it?</summary>
 
 
 
