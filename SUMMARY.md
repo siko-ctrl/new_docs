@@ -39,10 +39,9 @@
 * [🔗 Downloads](links/downloads.md)
 * [🗣 Socials](links/socials.md)
 
-## Noso funds
+## Donate to Noso
 
-* [Project Funds](noso-funds/project-funds.md)
-* [Donations](noso-funds/donations.md)
+* [Project Funds](donate-to-noso/project-funds.md)
 
 ## 📚 Developer Resources
 
