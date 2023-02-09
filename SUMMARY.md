@@ -26,8 +26,8 @@
 
 ## Setup a node and contribute to Noso
 
-* [🛠 Earn Noso running a Node](setup-a-node-and-contribute-to-noso/earn-noso-running-a-node/README.md)
-  * [List of  node commands](setup-a-node-and-contribute-to-noso/earn-noso-running-a-node/list-of-node-commands.md)
+* [🛠 Earn Noso running a Node](setup-a-node/earn-running-a-node/README.md)
+  * [List of  node commands](setup-a-node/earn-running-a-node/list-of-node-commands.md)
 
 ## What is a GVT?
 
