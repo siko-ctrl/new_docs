@@ -46,6 +46,14 @@ Yes. Please refer to the [docs](https://docs.nosocoin.com/noso-documentation/how
 
 <details>
 
+<summary>Why is NosoNode is displaying "block undone" over-and-over, not showing a satellite dish, and not paying?</summary>
+
+For various reasons, NosoNode can get into a stuck state. Use the command **"reqsum"** to restore the node to a functional state.
+
+</details>
+
+<details>
+
 <summary>`GLIBC_2.34' not found  when running noso node how to fix it?</summary>
 
 <mark style="color:red;">**latest Github releases will not work on Ubuntu 20,Ubuntu 18 and under ,you need Ubuntu 22.**</mark>
