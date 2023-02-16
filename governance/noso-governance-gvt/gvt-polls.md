@@ -39,3 +39,19 @@ Options:\
 3\) \[00] Not clear proposal.\
 4\) \[00] Another option (please, include details)\
 5\) \[00] Fake proposal.
+
+### <mark style="color:blue;">Poll: Block addresses after receive a MN payment.</mark>
+
+Introduction: Main idea is to avoid massive sells that could lead to mainnet unstability. If many MNs owners suddenly decide to sell after Noso is listed or liquidity pool is released, it will lead to a massive reduction on the active masternodes (the one which support mainnet) It should be usual that around 50% of circulating supply is used to get MNs payments.
+
+In order to avoid this, it is commonly used to block withdraws from addresses earning from masternodes for a determined period to avoid this. This is intended to bring stability to the mainnet and the coin price.
+
+Proposal: Block withdraws for any address receiving a Masternode payment for the next 2016 blocks (2 weeks).
+
+Options:
+
+1. \[27] Yes
+2. \[00] No
+3. \[00] Not clear enough
+4. \[00] Another option
+5. \[00] Fake proposal
