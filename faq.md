@@ -60,6 +60,14 @@ For various reasons, NosoNode can get into a stuck state. Use the command **"req
 
 </details>
 
+<details>
+
+<summary>SSL files missed. Auto directive update will not work properly if your wallet shows this please use this step</summary>
+
+Upload these ssl files to your noso directory to fix( the .dll files  [https://github.com/Noso-Project/NosoNode/tree/main/ssl](https://github.com/Noso-Project/NosoNode/tree/main/ssl)
+
+</details>
+
 ## Questions related to earning Noso
 
 {% content-ref url="how-to-earn-noso/popw-explanation/popw-faq.md" %}
