@@ -15,9 +15,12 @@ Download and install the latest "Get Noso"software from Github.com [(here)](http
 From within a terminal on your Linux machine, enter the following commands:
 
 * <mark style="color:red;">**`sudo apt-get update -y && apt-get upgrade -y`**</mark>
-* <mark style="color:red;">**`wget`**</mark> [<mark style="color:red;">**`https://github.com/Noso-Project/consominer2/releases/download/v1.6/consominer2-v1.6-x86_64-linux.tar.gz`**</mark>](https://github.com/Noso-Project/consominer2/releases/download/v1.6/consominer2-v1.6-x86\_64-linux.tar.gz)<mark style="color:red;">****</mark>\ <mark style="color:red;">****</mark>
-* <mark style="color:red;">**`tar -xvzf consominer2-v1.6-x86_64-linux.tar.gz`**</mark>\ <mark style="color:red;">****</mark>
-* <mark style="color:red;">**`chmod +x consominer2-v1.6-x86_64-linux`**</mark>\ <mark style="color:red;">****</mark>
+* <mark style="color:red;">**`wget`**</mark> [<mark style="color:red;">**`https://github.com/Noso-Project/consominer2/releases/download/v1.6/consominer2-v1.6-x86_64-linux.tar.gz`**</mark>](https://github.com/Noso-Project/consominer2/releases/download/v1.6/consominer2-v1.6-x86\_64-linux.tar.gz)\
+
+* <mark style="color:red;">**`tar -xvzf consominer2-v1.6-x86_64-linux.tar.gz`**</mark>\
+
+* <mark style="color:red;">**`chmod +x consominer2-v1.6-x86_64-linux`**</mark>\
+
 * <mark style="color:red;">**`./consominer2-v1.6-x86_64-linux`**</mark>
 
 {% hint style="danger" %}
@@ -35,8 +38,9 @@ Select an address from your NosoLite wallet and modify your consominer2.cfg file
 
 
 * <mark style="color:red;">`address AddressFromYourNosoLiteWallet`</mark>
-* <mark style="color:red;">`cpu 1`</mark>` ``` (setting this to more than 1 CPU is wasteful and doesn't increase your coins earned)
+* <mark style="color:red;">`cpu 1`</mark> (setting this to more than 1 CPU is wasteful and doesn't increase your coins earned)
 * <mark style="color:red;">`test`</mark> False (set this to "False" so that Earning starts as soon as the app opens)
+* <mark style="color:red;">`password`</mark>(change "mypasswrd" to a secure password which is 8-16 Base58 chars length)
 * Close Nano and save your changes using the key combination `CTRL+X` and when prompted type `Y` to save changes.
 
 With configurations in place, you are now ready to start earning coins.\

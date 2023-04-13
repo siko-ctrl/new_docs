@@ -18,7 +18,7 @@
   * [PoPW Error Codes](how-to-earn-noso/popw-explanation/popw-error-codes.md)
   * [PoPW FAQ](how-to-earn-noso/popw-explanation/popw-faq.md)
   * [PoPW Net AI](how-to-earn-noso/popw-explanation/popw-net-ai.md)
-  * [PoWP-Pools](how-to-earn-noso/popw-explanation/powp-pools.md)
+  * [PoPW-Pools](how-to-earn-noso/popw-explanation/popw-pools.md)
 * [💰 Earn Noso on Windows](how-to-earn-noso/earn-noso-on-windows.md)
 * [💰 Earn Noso using a Mobile Device](how-to-earn-noso/earn-noso-using-a-mobile-device/README.md)
   * [Userland instructions](how-to-earn-noso/earn-noso-using-a-mobile-device/userland-instructions.md)
@@ -45,4 +45,4 @@
 
 ## 📚 Developer Resources
 
-* [🖥 Noso Developer Portal](https://app.gitbook.com/o/4EBIC7BTTBc0nFvSuAgw/s/poRtoMiAuoTeNOTcvsMZ/)
+* [🖥 Noso Developer Portal](http://localhost:5000/o/4EBIC7BTTBc0nFvSuAgw/s/poRtoMiAuoTeNOTcvsMZ/)

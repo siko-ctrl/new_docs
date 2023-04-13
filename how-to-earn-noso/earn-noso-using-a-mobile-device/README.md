@@ -21,19 +21,19 @@ Install the Termux App from FDroid app store [(here)](https://f-droid.org/F-Droi
 Launch Termux App and perform the following:
 
 `1-Update Termux:`` `**`pkg update`**\
-``
+
 
 `2-Upgrade Termux:`` `**`pkg upgrade`**\
-``
+
 
 `3-Install Proot Distro:`` `**`pkg install proot-distro`**\
-``
+
 
 `4-Install Debian:`` `**`proot-distro install debian`**\
-**``**
+
 
 `5-Login to Debian:`` `**`proot-distro login debian`**\
-****
+
 
 6-Now that you are logged into Proot-Distro Debian, Update, upgrade and install wget and nano:\
 
@@ -42,27 +42,48 @@ Launch Termux App and perform the following:
 apt-get update -y && apt-get upgrade -y && apt-get install wget -y && apt-get install nano -y
 ```
 
-7-Download "Get Noso" app for your architecture. If you are unsure, type `uname -m` to determine 32bit or 64bit.\
-Download "Get Noso" app (version 1.6). Check [(here)](https://github.com/Noso-Project/noso-website/tree/main/docs/download) for other versions.
+<mark style="color:red;">**7-Download "Get Noso" app for your architecture. If you are unsure, type**</mark><mark style="color:red;">** **</mark><mark style="color:red;">**`uname -m`**</mark><mark style="color:red;">** **</mark><mark style="color:red;">**to determine 32bit or 64bit.**</mark>\
+Download "Get Noso" app (version 1.8). Check [(here)](https://github.com/Noso-Project/noso-website/tree/main/docs/download) for other versions.
+
+### For aarch64:<mark style="color:red;">(always check latest releases and dont just copy paste)</mark>
 
 ```
-wget https://nosocoin.com/docs/download/consominer2-v1.6-arm32-linux(arm32)
-wget https://nosocoin.com/docs/download/consominer2-v1.6-aarch64-linux(aarch64)
+wget https://nosocoin.com/docs/download/consominer2-v1.8-aarch64-linux
+```
+
+### For Arm:<mark style="color:red;">(always check latest releases and dont just copy paste)</mark>
+
+```
+wget https://nosocoin.com/docs/download/consominer2-1.8-arm32-linux
 ```
 
 8-Make "Get Noso" app executable:
 
+### For Aarch64:
+
 ```
-chmod +x consominer2-v1.6-aarch64-linux(aarch64)
-chmod +x consominer2-v1.6-arm32-linux(arm32)
+chmod +x consominer2-v1.8-aarch64-linux
+```
+
+### For Arm:
+
+```
+chmod +x consominer2-v1.8-arm32-linux
 ```
 
 **Step 4:**\
 Run "Get Noso" app from within Termux/proot-Distro/Debian:&#x20;
 
+### For Aarch64:
+
 ```
-./consominer2-v1.6-aarch64-linux(aarch64)
-./consominer2-v1.6-arm32-linux(arm32)
+./consominer2-v1.8-aarch64-linux
+```
+
+### For Arm:
+
+```
+./consominer2-v1.8-arm32-linux
 ```
 
 \
@@ -75,11 +96,24 @@ Make sure "consominer2.cfg" exists by typing `ls` You should see files similar t
 \
 ![directory listing](https://nosocoin.com/docs/images/termux\_ls.jpg) \
 Use nano to edit the consominer2.cfg:`nano consominer2.cfg`\
-Update, copy/paste your wallet address into configuration, set your CPU, and test to "false"\
+Update, copy/paste your wallet address into configuration, set your CPU, and test to "false"
+
+1. copy/paste your wallet address into configuration
+2. set your CPU core recomended "2"
+3. set test from "True" to "False"
+4. Set maxshares from "9999" to "0"
+5. set your password from "mypasswd" to something secure ,of 8-16 Base58 chars length&#x20;
+
+
+
 \
 <mark style="color:yellow;">**SEE IMAGE BELOW**</mark>:\
 \
-![consominer2 config](https://nosocoin.com/docs/images/consominercfg.png)\
+
+
+<figure><img src="../../.gitbook/assets/instructions.PNG" alt=""><figcaption></figcaption></figure>
+
+\
 \
 Close and save your changes using the key combination `CTRL+X` and when prompted type `Y` to save changes.\
 \
