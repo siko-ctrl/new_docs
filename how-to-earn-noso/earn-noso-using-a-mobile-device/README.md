@@ -48,13 +48,13 @@ Download "Get Noso" app (version 1.8). Check [(here)](https://github.com/Noso-Pr
 ### For aarch64:<mark style="color:red;">(always check latest releases and dont just copy paste)</mark>
 
 ```
-wget https://nosocoin.com/docs/download/consominer2-v1.8-aarch64-linux
+wget https://nosocoin.com/docs/download/nosoearn-aarch64
 ```
 
 ### For Arm:<mark style="color:red;">(always check latest releases and dont just copy paste)</mark>
 
 ```
-wget https://nosocoin.com/docs/download/consominer2-1.8-arm32-linux
+wget https://nosocoin.com/docs/download/nosoearn-arm32
 ```
 
 8-Make "Get Noso" app executable:
@@ -62,13 +62,13 @@ wget https://nosocoin.com/docs/download/consominer2-1.8-arm32-linux
 ### For Aarch64:
 
 ```
-chmod +x consominer2-v1.8-aarch64-linux
+chmod +x nosoearn-aarch64
 ```
 
 ### For Arm:
 
 ```
-chmod +x consominer2-v1.8-arm32-linux
+chmod +x nosoearn-arm32
 ```
 
 **Step 4:**\
@@ -77,13 +77,13 @@ Run "Get Noso" app from within Termux/proot-Distro/Debian:&#x20;
 ### For Aarch64:
 
 ```
-./consominer2-v1.8-aarch64-linux
+./nosoearn-aarch64
 ```
 
 ### For Arm:
 
 ```
-./consominer2-v1.8-arm32-linux
+./nosoearn-arm32
 ```
 
 \
@@ -92,7 +92,7 @@ The inital run creates files needed for further configuration.\
 **Step5:**\
 Close "Get Noso" app with the key combination `alt+X`\
 Once closed, you will need to edit the consominer2.cfg configuration file\
-Make sure "consominer2.cfg" exists by typing `ls` You should see files similar to the following:\
+Make sure "nosoearner.cfg" exists by typing `ls` You should see files similar to the following:\
 \
 ![directory listing](https://nosocoin.com/docs/images/termux\_ls.jpg) \
 Use nano to edit the consominer2.cfg:`nano consominer2.cfg`\
