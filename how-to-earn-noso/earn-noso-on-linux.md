@@ -38,7 +38,6 @@ Select an address from your NosoLite wallet and modify your nosoearn.cfg file by
 
 
 * <mark style="color:red;">`address AddressFromYourNosoLiteWallet`</mark>
-* <mark style="color:red;">`cpu 1`</mark> (setting this to more than 1 CPU is wasteful and doesn't increase your coins earned)
 * <mark style="color:red;">`test`</mark> False (set this to "False" so that Earning starts as soon as the app opens)
 * <mark style="color:red;">`custom seed`</mark>(change "mypasswrd" to a secure password which is 8-16 Base58 chars length)
 * Close Nano and save your changes using the key combination `CTRL+X` and when prompted type `Y` to save changes.
