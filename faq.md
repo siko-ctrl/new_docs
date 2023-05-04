@@ -14,7 +14,7 @@ A Noso Remote Procedure Call (RPC) node is a type server that allows users to re
 
 <details>
 
-<summary><strong>Why is noso.exe and consominer2.exe flagged as a virus?</strong></summary>
+<summary><strong>Why is noso.exe and nosoearner.exe flagged as a virus?</strong></summary>
 
 In the last decade or so, the anti-virus software began using a method called heuristics to better detect viruses that had code to evade detection. While that helped with a better detection, it also came with the undesirable side effect of false positives. This happens more often with non-signed software that has code to access the Internet. Since both, the wallet and the earning app do access the Internet, they trigger a false positive. They do not have a virus, they just tickle the anti-virus software the wrong way.
 
@@ -24,7 +24,8 @@ In the last decade or so, the anti-virus software began using a method called he
 
 <summary><strong>Is Noso listed at any Exchange?</strong></summary>
 
-Not right now, since the project is a open-source project, feel free to get in contact with exchanges to get Noso listed there. The future implementation of NoBiEx and liquidity pool will provide the ability to exchange Noso into other crypto currencies.
+Currently Noso is listed on [sevenseas](https://www.sevenseas.exchange/market/NOSO-USDT) but listing on Txbit.io is soon \
+<mark style="color:red;">**Please note that trading on sevenseas is dangerous since a very new exchange so trade with your own risk the team is not resposible on any damages or losses**</mark>.
 
 </details>
 
