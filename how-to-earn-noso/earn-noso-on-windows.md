@@ -16,9 +16,8 @@
 5. 1 - Launch the Noso Earning app to autocreate files needed for configuration.
 6. 2 - Modify the nosoearner.cfg configuration file, updating the following fields:
 7. `address AddressFromYourNosoLiteWallet`
-8. `cpu 1` (setting this to more than 1 CPU is wasteful and doesn't increase your coins earned)
-9. `test False` (set this to "False" so that Earning starts as soon as the app opens)
-10. `custom seed`(change "mypasswrd" to a secure password which is 8-16 Base58 chars length)
+8. `test False` (set this to "False" so that Earning starts as soon as the app opens)
+9. `custom seed`(change "mypasswrd" to a secure password which is 8-16 Base58 chars length)
 
 <figure><img src="../.gitbook/assets/nosoearn config.PNG" alt=""><figcaption></figcaption></figure>
 
