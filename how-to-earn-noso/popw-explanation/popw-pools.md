@@ -13,6 +13,6 @@ PoPW validators come preconfigured in nosoearn by default
 Please note that to run your own Validator you have to own a GVT + A vote must happen for your Validator to get listed refer [(here)](broken-reference) to purchase your GVT.
 {% endhint %}
 
-## <mark style="color:yellow;">Check pools on miningpoolstats:</mark>
+## <mark style="color:yellow;">Check Validators on miningpoolstats:</mark>
 
 {% embed url="https://miningpoolstats.stream/nosocoin" %}
