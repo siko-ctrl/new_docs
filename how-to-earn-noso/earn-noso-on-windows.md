@@ -18,7 +18,7 @@
 7. `address AddressFromYourNosoLiteWallet`
 8. `cpu 1` (setting this to more than 1 CPU is wasteful and doesn't increase your coins earned)
 9. `test False` (set this to "False" so that Earning starts as soon as the app opens)
-10. `password`(change "mypasswrd" to a secure password which is 8-16 Base58 chars length)
+10. `custom seed`(change "mypasswrd" to a secure password which is 8-16 Base58 chars length)
 
 **Step 4:**\
 With configurations in place, you are now ready to start earning coins.

@@ -15,13 +15,13 @@ Download and install the latest "Get Noso"software from Github.com [(here)](http
 From within a terminal on your Linux machine, enter the following commands:
 
 * <mark style="color:red;">**`sudo apt-get update -y && apt-get upgrade -y`**</mark>
-* <mark style="color:red;">**`wget`**</mark> [<mark style="color:red;">**`https://github.com/Noso-Project/consominer2/releases/download/v1.6/consominer2-v1.6-x86_64-linux.tar.gz`**</mark>](https://github.com/Noso-Project/consominer2/releases/download/v1.6/consominer2-v1.6-x86\_64-linux.tar.gz)\
+* <mark style="color:red;">**`wget`**</mark> [<mark style="color:red;">**`https://github.com/Noso-Project/nosoearn/releases/download/v2.3/nosoearn-v2.3-x86_64-ubuntu-latest.tar.gz`**</mark>](https://github.com/Noso-Project/nosoearn/releases/download/v2.3/nosoearn-v2.3-x86\_64-ubuntu-latest.tar.gz)\
 
-* <mark style="color:red;">**`tar -xvzf consominer2-v1.6-x86_64-linux.tar.gz`**</mark>\
+* <mark style="color:red;">**`tar -xvzf`**</mark> [<mark style="color:red;">**`nosoearn-v2.3-x86_64-ubuntu-latest.tar.gz`**</mark>](https://github.com/Noso-Project/nosoearn/releases/download/v2.3/nosoearn-v2.3-x86\_64-ubuntu-latest.tar.gz)\
 
-* <mark style="color:red;">**`chmod +x consominer2-v1.6-x86_64-linux`**</mark>\
+* <mark style="color:red;">**`chmod +x`**</mark> [<mark style="color:red;">**`nosoearn-v2.3-x86_64-ubuntu-latest`**</mark>](https://github.com/Noso-Project/nosoearn/releases/download/v2.3/nosoearn-v2.3-x86\_64-ubuntu-latest.tar.gz)\
 
-* <mark style="color:red;">**`./consominer2-v1.6-x86_64-linux`**</mark>
+* <mark style="color:red;">**`./`**</mark>[<mark style="color:red;">**`nosoearn-v2.3-x86_64-ubuntu-latest`**</mark>](https://github.com/Noso-Project/nosoearn/releases/download/v2.3/nosoearn-v2.3-x86\_64-ubuntu-latest.tar.gz)
 
 {% hint style="danger" %}
 Note, these  assume x86 64bit hardware. If your system has an arm or aarch64 CPU, you will need to use a different binary. Refer to Earn Noso on a Mobile Device for your ARM binary download.
@@ -33,14 +33,14 @@ Note, these  assume x86 64bit hardware. If your system has an arm or aarch64 CPU
 **Step 3:**\
 After launching "Get Noso" software, press <mark style="color:red;">`ALT+X`</mark> to close. The first "run" will auto-create your configuration files.\
 \
-Open "consominer2.cfg" using a text editor like Nano. <mark style="color:red;">`nano consominer2.cfg`</mark>\
-Select an address from your NosoLite wallet and modify your consominer2.cfg file by modifying the following fields:\
+Open "nosoearn.cfg" using a text editor like Nano. <mark style="color:red;">`nano nosoearn.cfg`</mark>\
+Select an address from your NosoLite wallet and modify your nosoearn.cfg file by modifying the following fields:\
 
 
 * <mark style="color:red;">`address AddressFromYourNosoLiteWallet`</mark>
 * <mark style="color:red;">`cpu 1`</mark> (setting this to more than 1 CPU is wasteful and doesn't increase your coins earned)
 * <mark style="color:red;">`test`</mark> False (set this to "False" so that Earning starts as soon as the app opens)
-* <mark style="color:red;">`password`</mark>(change "mypasswrd" to a secure password which is 8-16 Base58 chars length)
+* <mark style="color:red;">`custom seed`</mark>(change "mypasswrd" to a secure password which is 8-16 Base58 chars length)
 * Close Nano and save your changes using the key combination `CTRL+X` and when prompted type `Y` to save changes.
 
 With configurations in place, you are now ready to start earning coins.\
