@@ -71,6 +71,6 @@ Upload these ssl files to your noso directory to fix( the .dll files  [https://g
 
 ## Questions related to earning Noso
 
-{% content-ref url="how-to-earn-noso/popw-explanation/popw-faq.md" %}
-[popw-faq.md](how-to-earn-noso/popw-explanation/popw-faq.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

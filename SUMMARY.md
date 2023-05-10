@@ -14,17 +14,9 @@
 
 ## How to earn Noso?
 
-* [⛏ PoPW Explanation](how-to-earn-noso/popw-explanation/README.md)
-  * [PoPW FAQ](how-to-earn-noso/popw-explanation/popw-faq.md)
-  * [PoPW-Validators](how-to-earn-noso/popw-explanation/popw-pools.md)
-* [💰 Earn Noso on Windows](how-to-earn-noso/earn-noso-on-windows.md)
-* [💰 Earn Noso using a Mobile Device](how-to-earn-noso/earn-noso-using-a-mobile-device.md)
-* [💰 Earn Noso on Linux](how-to-earn-noso/earn-noso-on-linux.md)
-
-## Setup a node and contribute to Noso
-
-* [🛠 Earn Noso running a Node](setup-a-node/earn-running-a-node/README.md)
-  * [List of  node commands](setup-a-node/earn-running-a-node/list-of-node-commands.md)
+* [🛠 Earn Noso running a Node](how-to-earn-noso/earn-noso-running-a-node/README.md)
+  * [List of  node commands](how-to-earn-noso/earn-noso-running-a-node/list-of-node-commands.md)
+* [Shared Nodes contract](how-to-earn-noso/shared-nodes-contract.md)
 
 ## Governance
 
