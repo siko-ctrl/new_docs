@@ -60,9 +60,3 @@ For various reasons, NosoNode can get into a stuck state. Use the command **"req
 Upload these ssl files to your noso directory to fix( the .dll files  [https://github.com/Noso-Project/NosoNode/tree/main/ssl](https://github.com/Noso-Project/NosoNode/tree/main/ssl)
 
 </details>
-
-## Questions related to earning Noso
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
