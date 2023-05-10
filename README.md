@@ -1,6 +1,6 @@
 # 👋 Welcome to Noso
 
-## <mark style="color:yellow;">N</mark>etwork <mark style="color:yellow;">O</mark>f  <mark style="color:yellow;">S</mark>ustainable <mark style="color:yellow;">O</mark>pportunity
+## <mark style="color:yellow;">N</mark>etwork  <mark style="color:yellow;">O</mark>f  <mark style="color:yellow;">S</mark>ustainable <mark style="color:yellow;">O</mark>pportunity
 
 ### What is <mark style="color:yellow;">Noso</mark>? <a href="#overview" id="overview"></a>
 
@@ -14,13 +14,12 @@
 
 * <mark style="color:yellow;">**Name:**</mark> Noso
 * <mark style="color:yellow;">**Ticker:**</mark> NOSO
-* <mark style="color:yellow;">**PoPW algorithm:**</mark> Nosohash
 * <mark style="color:yellow;">**GENESYS block:**</mark> March 7th, 2021
 * <mark style="color:yellow;">**Total Supply:**</mark> 21 million coins
 * <mark style="color:yellow;">**Initial Block Reward:**</mark> 50 Noso
-* <mark style="color:yellow;">**Current Block Reward:**</mark> Starting with 50 Noso and halving every 210,000 blocks (\~4 years) up to 10 times (\~40 years). Block reward is split between Masternodes 40% (increasing 1% every 4000 blocks, up to 60%), Project development funds 10% (beginning at block 88406), and remaining percentage to PoPW)
+* <mark style="color:yellow;">**Current Block Reward:**</mark> Starting with 50 Noso and halving every 210,000 blocks (\~4 years) up to 10 times (\~40 years). Block reward is split between Masternodes 90% , Project development funds 10% (beginning at block 88406).
 * <mark style="color:yellow;">**Transaction speed:**</mark> up to 1900 transactions per second
-* <mark style="color:yellow;">**Transaction cost:**</mark> 0.01% (min. 0,00000010 Noso)
+* <mark style="color:yellow;">**Transaction cost:**</mark> 0.01% (min. 0,01 Noso)
 * <mark style="color:yellow;">**Block time:**</mark> 600 seconds
 * <mark style="color:yellow;">**Premine:**</mark> 0.049% (10303.9073 Noso) used as development fund.
 
