@@ -14,8 +14,8 @@
 
 ## How to earn Noso?
 
-* [🛠 Earn Noso running a Node](how-to-earn-noso/earn-noso-running-a-node/README.md)
-  * [List of  node commands](how-to-earn-noso/earn-noso-running-a-node/list-of-node-commands.md)
+* [🛠 Earn Noso running a Node](setup-a-node/earn-running-a-node/README.md)
+  * [List of  node commands](setup-a-node/earn-running-a-node/list-of-node-commands.md)
 * [Shared Nodes contract](how-to-earn-noso/shared-nodes-contract.md)
 
 ## Governance
