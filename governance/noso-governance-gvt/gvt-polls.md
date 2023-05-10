@@ -1,9 +1,8 @@
 # GVT polls
 
 \
-GVT Polls\
-Latest polls listed from top to bottom.
----------------------------------------
+<mark style="color:yellow;">GVT Polls</mark>\ <mark style="color:yellow;">Latest polls listed from top to bottom.</mark>
+------------------------------------------------------------------------------------------------------------------------
 
 � 05/09/2023 6:54 AM\
 Poll: Remove PoP from protocol.\
