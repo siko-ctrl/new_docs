@@ -19,7 +19,7 @@
 * <mark style="color:yellow;">**Initial Block Reward:**</mark> 50 Noso
 * <mark style="color:yellow;">**Current Block Reward:**</mark> Starting with 50 Noso and halving every 210,000 blocks (\~4 years) up to 10 times (\~40 years). Block reward is split between Masternodes 90% , Project development funds 10% (beginning at block 88406).
 * <mark style="color:yellow;">**Transaction speed:**</mark> up to 1900 transactions per second
-* <mark style="color:yellow;">**Transaction cost:**</mark> 0.01% (min. 0,01 Noso)
+* <mark style="color:yellow;">**Transaction cost:**</mark> 0.01% (min. 0.01 Noso)
 * <mark style="color:yellow;">**Block time:**</mark> 600 seconds
 * <mark style="color:yellow;">**Premine:**</mark> 0.049% (10303.9073 Noso) used as development fund.
 
