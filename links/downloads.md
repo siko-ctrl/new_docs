@@ -19,7 +19,3 @@ description: Quick links
 ## MNtool:
 
 {% embed url="https://github.com/Noso-Project/mntool" %}
-
-## Consominer2:
-
-{% embed url="https://github.com/Noso-Project/consominer2" %}
