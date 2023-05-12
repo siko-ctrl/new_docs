@@ -18,6 +18,7 @@ Sign address: any address in your wallet except the funds address
 
 \
 Download the latest Noso Node software [(here)](https://github.com/Noso-Project/NosoNode/releases)
+--------------------------------------------------------------------------------------------------
 
 ## **Minimum recommended requirements for running a node:**
 
@@ -34,8 +35,4 @@ Example: With a block height of 90000 and the formula ((90000 / 10) + 21) = 9021
 
 {% hint style="danger" %}
 The MasterNode stake requirement will cap at 10,500 coins
-{% endhint %}
-
-{% hint style="danger" %}
-<mark style="color:red;">**On Linux: latest Github releases will not work on Ubuntu 20 and under ,you need Ubuntu 22.**</mark>
 {% endhint %}
