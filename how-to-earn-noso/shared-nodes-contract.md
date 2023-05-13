@@ -1,3 +1,3 @@
-# Shared Nodes contract
+# ⛓ Shared Nodes contract
 
 ## Coming soon&#x20;
