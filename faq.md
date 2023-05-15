@@ -55,8 +55,16 @@ For various reasons, NosoNode can get into a stuck state. Use the command **"req
 
 <details>
 
-<summary>SSL files missed. Auto directive update will not work properly if your wallet shows this please use this step</summary>
+<summary>SSL files missed <mark style="color:blue;"><strong>on windows</strong></mark>. Auto directive update will not work properly if your wallet shows this please use this step</summary>
 
 Upload these ssl files to your noso directory to fix( the .dll files  [https://github.com/Noso-Project/NosoNode/tree/main/ssl](https://github.com/Noso-Project/NosoNode/tree/main/ssl)
+
+</details>
+
+<details>
+
+<summary>SSL files missed <mark style="color:green;"><strong>on Linux</strong></mark>. Auto directive update will not work properly if your wallet shows this please use this step</summary>
+
+Use this command in terminal <mark style="color:red;">**sudo apt-get install libssl-dev**</mark>
 
 </details>
