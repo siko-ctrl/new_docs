@@ -15,7 +15,7 @@ description: Coming Very soon !
 
 Participants create a SharedNode Contract on the mainnet, indicating their intention to host a node and inviting others to contribute funds. To initiate a SharedNode Contract, the creator must send a "SharedNode Contract request" to the mainnet, incurring a fee of approximately 0.20 Noso.
 
-SharedNode Contracts have the following specifications:&#x20;
+### <mark style="color:yellow;">SharedNode Contracts have the following specifications:</mark>&#x20;
 
 <mark style="color:red;">**a)**</mark> <mark style="color:green;">**Time duration**</mark> (measured in blocks): This specifies the duration for which the contract remains active.&#x20;
 
