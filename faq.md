@@ -41,21 +41,22 @@ This can be done from inside any of the Noso Wallets. From within Nosolite, righ
 
 <summary>Why is NosoNode is displaying "block undone" over-and-over, not showing a satellite dish, and not paying?</summary>
 
-For various reasons, NosoNode can get into a stuck state. Use the command **"reqsum"** to restore the node to a functional state.
+For various reasons, NosoNode can get into a stuck state. Use the command **"**<mark style="color:green;">**reqsum**</mark>**"** to restore the node to a functional state.
 
 </details>
 
 <details>
 
-<summary>`GLIBC_2.34' not found  when running noso node how to fix it?</summary>
+<summary>`GLIBC_2.34' not found  when running nosonode how to fix it?</summary>
 
-<mark style="color:red;">**latest Github releases will not work on Ubuntu 20,Ubuntu 18 and under ,you need Ubuntu 22.**</mark>
+**Under releases on github you will see multiple mirrors "**<mark style="color:green;">**linuxnew**</mark>**" corresponds to newer releases like Ubuntu 22.04**\
+&#x20;**"**<mark style="color:green;">**linux**</mark>**" corresponds to older releases like Ubuntu 20,Ubuntu 18**
 
 </details>
 
 <details>
 
-<summary>SSL files missed <mark style="color:blue;"><strong>on windows</strong></mark>. Auto directive update will not work properly if your wallet shows this please use this step</summary>
+<summary>SSL files missed <mark style="color:blue;"><strong>on windows</strong></mark>. Auto directive update will not work properly if nosonode shows this please use this step</summary>
 
 Upload these ssl files to your noso directory to fix( the .dll files  [https://github.com/Noso-Project/NosoNode/tree/main/ssl](https://github.com/Noso-Project/NosoNode/tree/main/ssl)
 
@@ -63,7 +64,7 @@ Upload these ssl files to your noso directory to fix( the .dll files  [https://g
 
 <details>
 
-<summary>SSL files missed <mark style="color:green;"><strong>on Linux</strong></mark>. Auto directive update will not work properly if your wallet shows this please use this step</summary>
+<summary>SSL files missed <mark style="color:green;"><strong>on Linux</strong></mark>. Auto directive update will not work properly if nosonode shows this please use this step</summary>
 
 Use this command in terminal <mark style="color:red;">**sudo apt-get install libssl-dev**</mark>
 
