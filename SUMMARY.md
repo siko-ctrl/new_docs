@@ -16,7 +16,7 @@
 
 * [🛠 Earn Noso running a Node](setup-a-node/earn-running-a-node/README.md)
   * [List of  node commands](setup-a-node/earn-running-a-node/list-of-node-commands.md)
-* [⛓ Shared Nodes contract](how-to-earn-noso/shared-nodes-contract.md)
+* [⛓ SharedNode Contracts](how-to-earn-noso/sharednode-contracts.md)
 
 ## Governance
 
