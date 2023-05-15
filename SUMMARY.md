@@ -30,7 +30,7 @@
 
 ## Donate to Noso
 
-* [Project Funds](donate-to-noso/project-funds.md)
+* [🙏 Project Funds](donate-to-noso/project-funds.md)
 
 ## 📚 Developer Resources
 
