@@ -4,17 +4,18 @@
 
 ### What is <mark style="color:yellow;">Noso</mark>? <a href="#overview" id="overview"></a>
 
-> #### **Noso is a dynamic and sustainable Peer-to-Peer crypto currency and platform, accessible to consumers and merchants, is fast, reliable, and secure with minimal transaction costs. The Noso platform has been designed from the ground up by a team with more than a decade of experience in Blockchain technologies.**
+> Noso utilizes a hybrid consensus mechanism combining Proof of Stake (PoS) and Masternodes (MN). This combination allows for the efficient validation of transactions and the operation of the network.
+>
+> The Proof of Stake (PoS) component of Noso involves participants staking their coins to validate transactions and create new blocks. Stakers are selected to create blocks based on the number of coins they hold and the length of time they have been staking. This consensus mechanism helps secure the network and maintain transactional integrity.
 
-> #### Noso has a strong focus on sustainability, scalability, and transparency. It is an open source project that aims to deliver an equitable and sustainable infrastructure for financial and social applications on a global scale.
+> In addition to PoS, Noso incorporates Masternodes (MN) to enhance the network's performance and provide additional functionalities. Masternodes are servers that fulfill specific roles within the network, such as facilitating instant transactions, participating in governance decisions, and supporting privacy features. Masternode operators are required to hold a specific number of Noso coins as collateral, demonstrating their commitment to the network's stability. By combining Proof of Stake and Masternodes, Noso aims to achieve a secure and efficient blockchain network while providing additional features and benefits to its users.
 
-> #### Noso uses a democratic governance system (GVT) built into Mainnet which will allow the project to evolve over time and promote contributor participation. The project will fund itself in a sustainable way through the use of project funds derived from the creation of each block.
-
-### <mark style="color:yellow;">Specs</mark>: <a href="#specs" id="specs"></a>
+## <mark style="color:yellow;">Specs</mark>: <a href="#specs" id="specs"></a>
 
 * <mark style="color:yellow;">**Name:**</mark> Noso
 * <mark style="color:yellow;">**Ticker:**</mark> NOSO
 * <mark style="color:yellow;">**GENESYS block:**</mark> March 7th, 2021
+* <mark style="color:yellow;">**Consensus:**</mark>Proof of Stake (PoS) and Masternodes (MN)
 * <mark style="color:yellow;">**Total Supply:**</mark> 21 million coins
 * <mark style="color:yellow;">**Initial Block Reward:**</mark> 50 Noso
 * <mark style="color:yellow;">**Current Block Reward:**</mark> Starting with 50 Noso and halving every 210,000 blocks (\~4 years) up to 10 times (\~40 years). Block reward is split between Masternodes 90% , Project development funds 10% (beginning at block 88406).
