@@ -17,8 +17,10 @@ Sign address: any address in your wallet except the funds address
 {% endhint %}
 
 \
-Download the latest Noso Node software [(here)](https://github.com/Noso-Project/NosoNode/releases)
---------------------------------------------------------------------------------------------------
+1.Download the latest Noso Node software [(here)](https://github.com/Noso-Project/NosoNode/releases)
+----------------------------------------------------------------------------------------------------
+
+## 2.Port forward the prefered port that you want <mark style="color:yellow;">(Default:8080)</mark> in your router
 
 ## **Minimum recommended requirements for running a node:**
 

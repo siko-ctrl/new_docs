@@ -1,4 +1,4 @@
-# Project Funds
+# 🙏 Project Funds
 
 Project Funds were introduced at block 88406 as a method to compensate those who help to make the project better in the following categories.
 
