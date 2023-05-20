@@ -8,6 +8,10 @@ description: Quick links
 
 <figure><img src="../.gitbook/assets/nosocoin_logo_150x150.png" alt=""><figcaption></figcaption></figure>
 
+## logo 200x200:
+
+<figure><img src="../.gitbook/assets/nosocoin_logo.png" alt=""><figcaption></figcaption></figure>
+
 ## NosoNode:
 
 {% embed url="https://github.com/Noso-Project/NosoNode/releases" %}
