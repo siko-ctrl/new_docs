@@ -7,8 +7,10 @@ description: Contribute to Noso by running a Node and earn some coins in process
 To run a masternode, from inside of NosoNode, enter your funds address (address with sufficient Noso) into the “node” tab of "NosoNode"; “test” then “save.” Masternode rewards will begin within 2 blocks and you will see your icon at the bottom left corner of NosoNode change from a wifi antenna to a satellite dish.\
 \
 <mark style="color:yellow;">**Masternodes (MN)**</mark>\
-![Noso Node](https://nosocoin.com/docs/images/nosonode2.png)\
+\
 
+
+<figure><img src="../../.gitbook/assets/nosonode.PNG" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Funds address: address containing the staking amount (<mark style="color:red;">**receives node reward**</mark>)
