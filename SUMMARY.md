@@ -23,6 +23,10 @@
 * [🏘 Noso Governance (GVT)](governance/noso-governance-gvt/README.md)
   * [GVT polls](governance/noso-governance-gvt/gvt-polls.md)
 
+## 🐛 Bug Bounty Program
+
+* [Noso Protocol Bug Bounty Program](bug-bounty-program/noso-protocol-bug-bounty-program.md)
+
 ## Links
 
 * [🔗 Downloads](links/downloads.md)
