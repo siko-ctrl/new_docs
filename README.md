@@ -4,7 +4,7 @@
 
 ### What is <mark style="color:yellow;">Noso</mark>? <a href="#overview" id="overview"></a>
 
-> Noso utilizes a hybrid consensus mechanism combining Proof of Stake (PoS) and Masternodes (MN). This combination allows for the efficient validation of transactions and the operation of the network.
+> Noso is an L1 coin that utilizes a hybrid consensus mechanism combining Proof of Stake (PoS) and Masternodes (MN). This combination allows for the efficient validation of transactions and the operation of the network.
 >
 > The Proof of Stake (PoS) component of Noso involves participants staking their coins to validate transactions and create new blocks. Stakers are selected to create blocks based on the number of coins they hold and the length of time they have been staking. This consensus mechanism helps secure the network and maintain transactional integrity.
 
