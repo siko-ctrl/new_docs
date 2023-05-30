@@ -39,3 +39,7 @@
 ## 📚 Developer Resources
 
 * [🖥 Noso Developer Portal](http://localhost:5000/o/4EBIC7BTTBc0nFvSuAgw/s/poRtoMiAuoTeNOTcvsMZ/)
+
+## 💱 Exchanges
+
+* [Page 1](exchanges/page-1.md)
