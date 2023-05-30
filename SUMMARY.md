@@ -42,4 +42,4 @@
 
 ## 💱 Exchanges
 
-* [Page 1](exchanges/page-1.md)
+* [Running a Noso JSON-RPC node for development Utilizing Noso's REST API](exchanges/running-a-noso-json-rpc-node-for-development-utilizing-nosos-rest-api.md)
