@@ -36,10 +36,6 @@
 
 * [🙏 Project Funds](donate-to-noso/project-funds.md)
 
-## 📚 Developer Resources
-
-* [🖥 Noso Developer Portal](http://localhost:5000/o/4EBIC7BTTBc0nFvSuAgw/s/poRtoMiAuoTeNOTcvsMZ/)
-
 ## 💱 Exchanges
 
 * [Running a Noso JSON-RPC node for development Utilizing Noso's REST API](exchanges/running-a-noso-json-rpc-node-for-development-utilizing-nosos-rest-api.md)
