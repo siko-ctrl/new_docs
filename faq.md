@@ -24,8 +24,7 @@ In the last decade or so, the anti-virus software began using a method called he
 
 <summary><strong>Is Noso listed at any Exchange?</strong></summary>
 
-Currently Noso is listed on [sevenseas](https://www.sevenseas.exchange/market/NOSO-USDT) but listing on Txbit.io is soon \
-<mark style="color:red;">**Please note that trading on sevenseas is dangerous since a very new exchange so trade with your own risk the team is not resposible on any damages or losses**</mark>.
+Currently Noso is listed on [Txbit.io](https://www.txbit.io/Trade/NOSO/USDT)
 
 </details>
 
