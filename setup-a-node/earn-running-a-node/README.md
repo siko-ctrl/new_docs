@@ -34,6 +34,10 @@ Sign address: any address in your wallet except the funds address
 * 100 Mbit/s internet connection
 * Publicly accessible IP address (DHCP or Static) with TCP Port forwarding to Noso Node listening port.
 
+
+
+## <mark style="color:yellow;">Watch a video on how to setup a node</mark> [here](https://www.youtube.com/watch?v=s28rsAH1ffs)
+
 {% hint style="danger" %}
 **The MasterNode stake requirement is 10,500 Noso**\
 <mark style="color:red;">**(minimum amount to run a node)**</mark>
