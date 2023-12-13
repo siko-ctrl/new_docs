@@ -1,6 +1,6 @@
 # 👋 Welcome to Noso
 
-## <mark style="color:yellow;">It's Our Blockchain - Pioneering Decentralized Innovation</mark>
+## <mark style="color:yellow;">NOSO: Our Blockchain</mark>
 
 ### What is <mark style="color:yellow;">Noso</mark>? <a href="#overview" id="overview"></a>
 
