@@ -1,5 +1,4 @@
 # 🛣 Noso History and  Roadmap
 
+## <mark style="color:red;">**2024 Roadmap coming soon :)**</mark>
 
-
-<figure><img src=".gitbook/assets/Noso History and Roadmap.png" alt=""><figcaption></figcaption></figure>

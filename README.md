@@ -24,7 +24,7 @@
 
 ## <mark style="color:yellow;">Who are the Founders of Noso?</mark>
 
-Noso, a project created by an anonymous team with extensive experience in cryptography and blockchain development, was launched in March 7th, 2021 by a full-time developer. Despite the team's anonymity, their experience, combined with the complex nature of the project and its milestones (such as the creation of a new consensus mechanism in Pascal, a secure programming language), suggest that Noso was developed by experts with extensive hands-on experience in the field of cryptography.
+Noso, a project created by an anonymous team with extensive experience in cryptography and blockchain development, was launched in March 7th, 2021 by a full-time developer. Despite the team's anonymity, their experience, combined with the complex nature of the project and its milestones (such as the creation of a new consensus mechanism , suggest that Noso was developed by experts with extensive hands-on experience in the field of cryptography.
 
 ## <mark style="color:yellow;">What makes Noso Unique?</mark>
 
