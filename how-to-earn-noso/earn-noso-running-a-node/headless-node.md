@@ -48,7 +48,7 @@ sudo apt install xvfb -y
 
 ```bash
 mkdir /home/<<USERNAME>>/noso_node
-wget -O node.tgz $node_link
+wget -O node.tgz https://github.com/Noso-Project/NosoNode/releases/download/v0.4.2Ca5/noso-v0.4.2Ca5-x86_64-linuxnew.tgz
 tar -xzf node.tgz
 mv Noso /home/<<USERNAME>>/noso_node/
 chmod +x /home/<<USERNAME>>/noso_node/Noso
