@@ -4,19 +4,19 @@ description: Learn how to operate a Noso Masternode headless on Linux
 
 # Headless Node
 
-Noso's Masternode is designed to be run on a normal consumer PC featuring a information rich GUI that makes it easy for operators of any technical skill level to participate in the network security and earning rewards for doing so.&#x20;
+Noso's Masternode is designed to be run on a normal consumer PC featuring an information rich GUI that makes it easy for operators of any technical skill level to participate in the network security and earning rewards for doing so.&#x20;
 
-However in a more industrial context it is also often desired to run a node headless to automate the deployment process. This tutorial will show you an efficient way to set up a **headless** Noso Masternode on Ubuntu 22.04.&#x20;
+However, in a more industrial context it is also often desired to run a node headless to automate the deployment process. This tutorial will show you an efficient way to set up a **headless** Noso Masternode on Ubuntu 22.04.&#x20;
 
 {% hint style="info" %}
-This tutorial is only recommended for experienced users that know their way around the command line as all grafical units that make Noso Masternodes so accessible will not be available to the operator.&#x20;
+This tutorial is only recommended for experienced users that know their way around the command line as all graphical units that make Noso Masternodes so accessible will not be available to the operator.&#x20;
 {% endhint %}
 
 #### **Prerequisites:**
 
 * Ubuntu 22.04 (VPS) meeting the minimum hardware requirements
 * 10500 Noso&#x20;
-* Ipv4 not used for another Noso Masternode
+* IPv4 not used for another Noso Masternode
 
 ***
 
@@ -96,4 +96,4 @@ cd /home/<<USERNAME>>/noso_node
 nohup xvfb-run -a /home/<<USERNAME>>/noso_node/Noso &
 ```
 
-Congratulations - you are now running a headless Noso Masternode.
+Congratulations - you are now running a headless Noso Masternode. The default port for your node is 8080. Make sure to open that port in your firewall settings.&#x20;
